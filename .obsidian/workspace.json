@@ -8,27 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a7076b8b2afd2b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5f26627627211e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Untitled.md",
+                "file": "ENGR421/Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c3d6025dca4b60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP306/Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13021f5015253ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP301/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/Untitled.md",
+                "file": "COMP301/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/Untitled.md",
+                "file": "COMP301/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/Untitled.md"
+                "file": "COMP301/Lecture Notes.md"
               }
             }
           }
@@ -155,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f26627627211e65",
+  "active": "13021f5015253ff5",
   "lastOpenFiles": [
+    "COMP306/Lecture Notes.md",
+    "COMP301/Lecture Notes.md",
+    "ENGR421/Lecture Notes.md",
     "ENGR421/Introduction to Machine Learning, Fourth Edition (Ethem Alpaydin) (Z-Library).epub",
-    "ENGR421/Unconfirmed 73339.crdownload",
-    "ENGR421/Untitled.md"
+    "ENGR421/Unconfirmed 73339.crdownload"
   ]
 }
