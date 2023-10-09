@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d87d48062b62261",
+            "id": "64f6bc5c5822801c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP301/Lecture Notes.md",
+                "file": "ENGR421/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP301/Lecture Notes.md",
+                "file": "ENGR421/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP301/Lecture Notes.md",
+                "file": "ENGR421/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP301/Lecture Notes.md"
+                "file": "ENGR421/Lecture Notes.md"
               }
             }
           }
@@ -146,13 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d87d48062b62261",
+  "active": "64f6bc5c5822801c",
   "lastOpenFiles": [
+    "ENGR421/code/main.ipynb",
+    "ENGR421/code/main.py",
+    "ENGR421/code",
+    "HIST300/Introduction.md",
+    "COMP301/Lecture Notes.md",
     "ENGR421/lectures/Lecture 01 - Introduction.pdf",
     "ENGR421/Lecture Notes.md",
     "COMP302/Lecture Notes.md",
     "COMP306/Lecture Notes.md",
-    "COMP301/Lecture Notes.md",
     "ENGR421/Introduction to Machine Learning, Fourth Edition (Ethem Alpaydin) (Z-Library).epub",
     "ENGR421/Unconfirmed 73339.crdownload"
   ]
