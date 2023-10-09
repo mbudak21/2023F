@@ -29,3 +29,11 @@
 
 
 FILL OUT THE REST OF LEC2
+
+## Lec - 03
+
+### Paramteric Methods
+
+* Density Estimation
+
+Panopto
