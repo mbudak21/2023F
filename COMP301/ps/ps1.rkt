@@ -1,0 +1,99 @@
+#lang eopl
+
+;----- PART A -----;
+(define idx_getter
+  (lambda (L i) ; L: list, i: index
+    (cond
+      ((null? L) '()) 
+      ((eq? i 0) (car L)) ;Found i'th index, return its element
+      (else (idx_getter (cdr L) (- i 1))) ;Iterate through the list untill we reach the index
+    )
+  )
+)
+
+;(display(idx_getter '(5 8 6 91 87 12) 2))
+
+;Returning range from i to j: Assuming the list structure in eopl is similar to linked lists,
+; we would first have to truncate the list to i'th index,
+; which can be done by modifying idx_getter to return the `List` instead of (car `List`)
+; After getting the list truncated from the start, we would need to truncate its end (up to index j).
+; For this I think we can iterate through the list untill we find the j'th index and set its cdr value to '().
+; Apperently, the function set-cdr! which is used to set cdr is not allowed in eopl.
+;
+; Considering this constraint, we could create a new list and pop the values from i to j to the new list,
+; but we haven't learned that functionality yet.  
+
+; IMPLEMENTATION:
+(define initial-truncate
+  (lambda (L i)
+    (cond
+      ((null? L) '()) 
+      ((eq? i 0) L) ;Found i'th index, return the list
+      (else (initial-truncate (cdr L) (- i 1) ) ) ;Iterate through the list untill we reach the index
+    )
+  )
+)
+
+(define latter-truncate
+  (lambda (L j) ; L: list, i: index
+    (cond
+      ((null? L) '()) 
+      ;((eq? j 0) (set-cdr!  )) ;Found j'th index, set its cdr to '() this is the problematic part
+      (else (latter-truncate (cdr L) (- j 1))) ;Iterate through the list untill we reach the index
+    )
+  )
+)
+
+(define truncate-range
+  (lambda (L i j)
+    (latter-truncate (initial-truncate L i) (- j i))
+  )
+)
+; (display (initial-truncate '(84 65 8 615 489 65 7) 4))
+
+;----- END OF PART A -----;
+
+;----- PART B -----;
+(define part_b
+  (lambda (n)
+    (cond
+      ((< n 0) 0)
+      ((= n 0) 1)
+      ((> n 0) (+ 4(* (part_b (- n 1)) (part_b (- n 1))))) ; Series calculation
+    )
+  )
+)
+
+;(display (part_b 3))
+
+;----- END OF PART B -----;
+
+;----- PART C -----;
+(define is-prime?
+  ;Stupid implementation: Check all remainders from n to sqrt(n)
+  (lambda (n)
+    (if (<= n 1)
+        #f ;Return f 
+        (check-divisibility n 2) ;Start checking for divisibility starting from 2
+    )
+  )
+)
+(define check-divisibility
+  (lambda (n div)
+    (cond
+      ((> div (sqrt n)) #t) ;No divisor found up to sqrt(n), so n is prime
+       ((is-divisible? n div) #f) ;Found a divisor, so n is not prime
+       (else (check-divisibility n (+ div 1))) ;Check for div+1
+    )
+  )
+)
+
+(define is-divisible?
+  (lambda (n div) ;Check if n is divisible by div
+    (= (remainder n div) 0)
+  )
+)
+
+;(display (is-prime? 116239))
+
+;----- END OF PART C -----;
