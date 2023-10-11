@@ -28,11 +28,13 @@ Algorithms trained on unlabelled data. It tries to learn the underlying structur
 	* Risk asymmetry
 	* Model selection
 
+---
 # Lec 02 - Supervised Learning
 * Rectangle fitting for the Family Car Example
 * Learning: Finsing the best $\theta$, where theta is $\theta = {(p1, p2, e1, e2)}$
 * Theta values are also  called the model parameters
 
+---
 # Lec 03 - Parametric Methods
 ### Density Estimation
 	Finding a distribution with specified paramters that fits the given data.
@@ -40,4 +42,15 @@ Algorithms trained on unlabelled data. It tries to learn the underlying structur
 	One Example is single dimensional classification
 
 #### Maximum Likelihood Estimation (MLE)
+---
+# Lec 04 - X
+## Bernoulli Density
+* Exam question about likelyhood ? ENGR question i guess?
+* Check second derivaties of the equations, will come up in the exam
 
+## Gaussian Density
+* Check the lecture notes, replicate the results
+
+## Parametric Classification
+
+## Parametric Regression
