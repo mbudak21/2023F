@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/Lecture Notes.md"
+                "file": "COMP306/Lecture Notes.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   },
   "active": "64f6bc5c5822801c",
   "lastOpenFiles": [
+    "ENGR421/Lecture Notes.md",
     "ENGR421/code/main.ipynb",
     "ENGR421/code/main.py",
     "ENGR421/code",
     "HIST300/Introduction.md",
     "COMP301/Lecture Notes.md",
     "ENGR421/lectures/Lecture 01 - Introduction.pdf",
-    "ENGR421/Lecture Notes.md",
     "COMP302/Lecture Notes.md",
     "COMP306/Lecture Notes.md",
     "ENGR421/Introduction to Machine Learning, Fourth Edition (Ethem Alpaydin) (Z-Library).epub",
