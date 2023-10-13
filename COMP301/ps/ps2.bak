@@ -1,0 +1,35 @@
+#lang eopl
+
+; Problem 1
+; 
+; In recursive procedures each procedure calls itself usually with simpler arguments but also with pending operations.
+; Since there are pending operations the call stack has to grow each time the function calls itself, this results in linear space complexity.
+; In iterative procedures there are still self-calls, but since there are no pending operations the callstack doesnt have to get bigger.
+; The return value of the inital call changes to the newly called procedure, eliminating the need to grow the callstack.
+; Usually, recursive implementations are easier to code and they tend to require less lines of code to implement, however,
+; their linear space complexity is linear, wheres the linear complexity of iterative approaches are constant. 
+; This results in iterative approaches being more performant compared to recurisive ones.
+
+
+
+
+; Problem 2a
+
+(define (even? n)
+  (= (modulo n 2) 0))
+
+
+(define even-odd
+  (lambda (list)
+    (if (eq? list '())
+      0
+      (if (even? (car list))
+          (+ (car list) (even-odd (cdr list)))
+          (- (even-odd (cdr list)) (car list))
+      )
+    )
+  )
+)
+
+
+(define even-odd-iterative)
