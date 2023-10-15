@@ -5,41 +5,85 @@
 * Supervised Learning
 * Error measureing metrics, rmse 
 ## Supervised Learning
-A machine learning technique where the algorithm is trained on labeled data. The input data will come with an output label.
-* ### Classification
-	* Binary Classification: # of classes 2
-		* Good, Bad customers in bank credit applications
-		* Feature engineering: Which data is relevant?
-	* Multiclass Classification: # of classes > 2
-* ### Regression
-	* Definiton $x = {(x_i, y_i)}^{N}_{i=1} y_i \sigma R$ 
-	* Forecasting
-	* Is there training in regresssion? I thought it was just a mathematial question# Lec - 02
+$X = \{ (x_i, y_i)\}_{i=1}^{N}$
+
+$X:$ Training set
+$x_i:$ i'th input
+$y_i:$ i'th label\output
+$N:$ number of data points
+
+A machine learning technique where the algorithm is trained on labeled data. The input data will come with an output label. The machine is `supervised` with correct answers.
+
+Supervised learning is classified into two categories of algorithms:
+
+### Classification
+A classification problem is when the output variable is a category, such as “Red” or “blue” , “disease” or “no disease”.
+
+* Binary Classification: # of classes 2
+	* Good, Bad customers in bank credit applications
+	* Feature engineering: Which data is relevant?
+* Multiclass Classification: # of classes > 2
+### Regression
+A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
+
+* Definiton $x = {(x_i, y_i)}^{N}_{i=1}\ \ \ \ y_i \in R$ 
+* Forecasting
+* Is there training in regresssion? I thought it was just a mathematial question# Lec - 02
+
+**Types:-**
+- Regression
+- Logistic Regression
+- Classification
+- Naive Bayes Classifiers
+- K-NN (k nearest neighbors)
+- Decision Trees
+- Support Vector Machine
 
 
 ## Unsupervised Learning
-No Class Labels!
-Algorithms trained on unlabelled data. It tries to learn the underlying structure from the input data.
+$X = \{ x_i \} ^N_{i=1}$   There is no $y_i$ label
+
+Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance. Here the task of the machine is to group unsorted information according to similarities, patterns, and differences without any prior training of data. 
+
+Unlike supervised learning, no teacher is provided that means no training will be given to the machine. Therefore the machine is restricted to find the hidden structure in unlabeled data by itself.
+
+Unsupervised learning is classified into two categories of algorithms: 
+
+- **Clustering**: A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by purchasing behavior.
+- **Association**: An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
+
 * #### Clustering
 	* A technique used to group similar data points together.
 	* Definition $x = {x_i}^{N}_{i=1}$
-	* No labels
 	* Fitting best rectangle
 	* Risk asymmetry
 	* Model selection
 
 ---
 # Lec 02 - Supervised Learning
-* Rectangle fitting for the Family Car Example
-* Learning: Finsing the best $\theta$, where theta is $\theta = {(p1, p2, e1, e2)}$
-* Theta values are also  called the model parameters
+### Family Car Example:
 
+$$
+X = \{ (x_i, y_i)\}_{i=1}^{N}  \ \ \ \ \ \ \ \ \ \ \ \ \
+
+
+x_i = \left[ \begin{array}{c}
+x_{i1} \ \ \ \text{price} \\
+ \ x_{i2} \ \ \ \text{power}
+\end{array} \right]
+
+$$
 ---
 # Lec 03 - Parametric Methods
 ### Density Estimation
-	Finding a distribution with specified paramters that fits the given data.
-	The parameters are learned from the training data
-	One Example is single dimensional classification
+Density estimation aims to find the underlying probability density function (PDF) from the observed data.
+
+$$
+x_i \sim p(x_i) \ \ \ \forall i \ \ \ p(\ .)=?
+$$
+For example, if we use the normal distribution as our function, we need to find two paramters $\sigma^2$ and $\mu$ .
+
+
 
 #### Maximum Likelihood Estimation (MLE)
 ---

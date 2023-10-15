@@ -1,4 +1,7 @@
 {
   "accentColor": "#860e0e",
-  "cssTheme": "Obsidian gruvbox"
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "big-math"
+  ]
 }
