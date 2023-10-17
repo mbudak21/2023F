@@ -74,18 +74,44 @@ x_{i1} \ \ \ \text{price} \\
 
 $$
 ---
-# Lec 03 - Parametric Methods
+# Lec 03 & 04 - Parametric Methods
+
+### What are parametric and non-parametric methods?
+Parametrics methods are used for problems in which we assume a specific distribution, most of the times we assume a normal distribution with mean $\mu$ and variance $\sigma^2$.
+
+On the other hand, in non-parametric methods we don't assume any distribution. They are also called distribution-free methods.
 ### Density Estimation
-Density estimation aims to find the underlying probability density function (PDF) from the observed data.
+Density estimation aims to find the underlying probability density function (PDF) from the observed data, assuming a distribution.
 
 $$
 x_i \sim p(x_i) \ \ \ \forall i \ \ \ p(\ .)=?
 $$
 For example, if we use the normal distribution as our function, we need to find two paramters $\sigma^2$ and $\mu$ .
 
-
-
 #### Maximum Likelihood Estimation (MLE)
+MLE is a special case of density estimation where we aim to find the parameters $\theta$ that maximize the likelihood function $L(\theta)$ The likelihood function represents the likelihood of the observed data $X$ given the parameters $\theta$:
+
+$$L(\theta)=p(X|\theta)$$
+
+MLE estimates $\theta$ by maximizing this function, i.e., we find the value of $\theta$ that makes the observed data most probable.
+$$
+\mu_{MLE} = \text{simply the average of the points}
+$$
+$$
+\sigma^2_{\text{MLE}} = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2
+$$
+#### Maximum A Posteriori (MAP)
+MAP goes one step further by incorporating prior beliefs or information $p(\theta)$ about the parameters $\theta$. It estimates the parameters $\theta$ by maximizing the posterior density function, which is calculated using Bayes' theorem:
+
+$$
+p(\theta|X) = \frac{p(X|\theta)\ \\p(\theta)}{p(X)}
+$$
+
+Here $p(X|\theta)$is the likelihood, $p(\theta)$ is the prior, and $p(X)$ is the evidence (a normalizing constant). MAP estimates are a compromise between the **prior information** and the **likelihood** of the data.
+
+
+
+
 ---
 # Lec 04 - X
 ## Bernoulli Density
