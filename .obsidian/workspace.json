@@ -6,7 +6,7 @@
       {
         "id": "b6967ddebbfa5c6a",
         "type": "tabs",
-        "dimension": 20.408163265306122,
+        "dimension": 54.59081836327345,
         "children": [
           {
             "id": "64f6bc5c5822801c",
@@ -59,25 +59,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "8ef213f5c28b09a2",
         "type": "tabs",
-        "dimension": 79.59183673469387,
+        "dimension": 45.40918163672655,
         "children": [
           {
             "id": "5e14368acab2f3e1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ENGR421/Lecture Notes.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/Lecture Notes.md"
+                "file": "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf"
               }
             }
           }
@@ -208,22 +206,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e14368acab2f3e1",
+  "active": "583753c72db170a0",
   "lastOpenFiles": [
+    "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
     "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf",
     "ENGR421/lectures/Lecture 02 - Supervised Learning.pdf",
-    "ENGR421/Lecture Notes.md",
-    "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
-    "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
-    "COMP301/ps/78940_mbudak21_ps2.pdf",
     "ENGR421/lectures/Lecture 01 - Introduction.pdf",
+    "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
+    "ENGR421/lab/Lab 01 - Parametric Methods/lab01_parametric_methods.ipynb",
+    "ENGR421/lab/Lab 01 - Parametric Methods/lab01_data_set.csv",
+    "ENGR421/lab/Lab 01 - Parametric Methods",
+    "ENGR421/lab",
+    "ENGR421/New folder",
+    "ENGR421/Lecture Notes.md",
+    "COMP301/ps/78940_mbudak21_ps2.pdf",
     "COMP306/Lecture Notes.md",
-    "ENGR421/code/main.ipynb",
-    "ENGR421/code/main.py",
-    "ENGR421/code",
     "HIST300/Introduction.md",
     "COMP301/Lecture Notes.md",
-    "COMP302/Lecture Notes.md",
-    "ENGR421/Introduction to Machine Learning, Fourth Edition (Ethem Alpaydin) (Z-Library).epub"
+    "COMP302/Lecture Notes.md"
   ]
 }
