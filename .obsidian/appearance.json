@@ -3,5 +3,6 @@
   "cssTheme": "Obsidian gruvbox",
   "enabledCssSnippets": [
     "big-math"
-  ]
+  ],
+  "baseFontSize": 21
 }

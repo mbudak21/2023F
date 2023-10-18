@@ -4,75 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6967ddebbfa5c6a",
+        "id": "118890ef74b44b7b",
         "type": "tabs",
-        "dimension": 52.96950240770465,
         "children": [
           {
-            "id": "64f6bc5c5822801c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/lectures/Lecture 01 - Introduction.pdf"
-              }
-            }
-          },
-          {
-            "id": "43b8ac4e7b22d61b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/lectures/Lecture 02 - Supervised Learning.pdf"
-              }
-            }
-          },
-          {
-            "id": "ea85cda4029f884f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf"
-              }
-            }
-          },
-          {
-            "id": "031eccc9c363e51d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf"
-              }
-            }
-          },
-          {
-            "id": "583753c72db170a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "8ef213f5c28b09a2",
-        "type": "tabs",
-        "dimension": 47.03049759229535,
-        "children": [
-          {
-            "id": "5e14368acab2f3e1",
+            "id": "50aec476e34ad396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -145,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/Lecture Notes.md"
+                "file": "COMP306/Lecture Notes.md"
               }
             }
           }
@@ -206,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e14368acab2f3e1",
+  "active": "50aec476e34ad396",
   "lastOpenFiles": [
+    "ENGR421/Lecture Notes.md",
     "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
     "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
     "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf",
@@ -218,8 +159,6 @@
     "ENGR421/lab/Lab 01 - Parametric Methods",
     "ENGR421/lab",
     "ENGR421/New folder",
-    "ENGR421/Lecture Notes.md",
-    "COMP301/ps/78940_mbudak21_ps2.pdf",
     "COMP306/Lecture Notes.md",
     "HIST300/Introduction.md",
     "COMP301/Lecture Notes.md",
