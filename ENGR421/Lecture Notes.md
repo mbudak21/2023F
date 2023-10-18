@@ -124,3 +124,16 @@ Here $p(X|\theta)$is the likelihood, $p(\theta)$ is the prior, and $p(X)$ is the
 ## Parametric Classification
 
 ## Parametric Regression
+
+----
+
+# Lec 05 - Multivariate Methods
+
+----
+
+# Lec 06 - 
+
+* **Multivariate Gaussian**
+
+--- 
+# Lec 07 - Linear Discrimination

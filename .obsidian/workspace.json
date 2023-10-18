@@ -6,7 +6,7 @@
       {
         "id": "b6967ddebbfa5c6a",
         "type": "tabs",
-        "dimension": 54.59081836327345,
+        "dimension": 52.96950240770465,
         "children": [
           {
             "id": "64f6bc5c5822801c",
@@ -64,7 +64,7 @@
       {
         "id": "8ef213f5c28b09a2",
         "type": "tabs",
-        "dimension": 45.40918163672655,
+        "dimension": 47.03049759229535,
         "children": [
           {
             "id": "5e14368acab2f3e1",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
+                "file": "ENGR421/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
+                "file": "ENGR421/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf"
+                "file": "ENGR421/Lecture Notes.md"
               }
             }
           }
@@ -206,13 +206,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "583753c72db170a0",
+  "active": "5e14368acab2f3e1",
   "lastOpenFiles": [
+    "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
     "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
     "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf",
     "ENGR421/lectures/Lecture 02 - Supervised Learning.pdf",
     "ENGR421/lectures/Lecture 01 - Introduction.pdf",
-    "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
     "ENGR421/lab/Lab 01 - Parametric Methods/lab01_parametric_methods.ipynb",
     "ENGR421/lab/Lab 01 - Parametric Methods/lab01_data_set.csv",
     "ENGR421/lab/Lab 01 - Parametric Methods",
