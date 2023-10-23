@@ -43,5 +43,11 @@ A "superkey," on the other hand, is a set of one or more attributes that uniquel
 
 
 
+# Lec 07 - Data Integrity
 
- 
+**4 Types Of Integrity Constratins**:
+* Domain Constraint: 
+* Key Constratint:
+* Entity Integrity Constratint:
+* Referential Integrity Constraint:
+
