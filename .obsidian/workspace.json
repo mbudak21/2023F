@@ -6,15 +6,16 @@
       {
         "id": "118890ef74b44b7b",
         "type": "tabs",
-        "dimension": 56.63672654690619,
         "children": [
           {
             "id": "05ae087f840dde05",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "COMP301/Lectures/Lecture 04 -- Structures and Patterns in Functional Programming.pdf"
+                "file": "COMP306/Lecture Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -22,9 +23,11 @@
             "id": "f0e11dc4061bc86e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "COMP301/Lectures/lecture 05 - Lists and recursion.pdf"
+                "file": "().md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,26 +38,6 @@
               "type": "pdf",
               "state": {
                 "file": "COMP301/Lectures/lecture 06 - Inductive Sets of Data.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1d7bafc26d6fd01f",
-        "type": "tabs",
-        "dimension": 43.36327345309382,
-        "children": [
-          {
-            "id": "bcdc0c75b54baac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lecture Notes.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -108,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -125,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP301/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP301/Lecture Notes.md",
+                "file": "COMP306/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP301/Lecture Notes.md"
+                "file": "COMP306/Lecture Notes.md"
               }
             }
           }
@@ -186,22 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcdc0c75b54baac0",
+  "active": "05ae087f840dde05",
   "lastOpenFiles": [
-    "COMP301/ps/78940_mbudak21_ps3.pdf",
-    "COMP301/ps/mso8F05.tmp",
+    "COMP301/Lectures/Lecture 04 -- Structures and Patterns in Functional Programming.pdf",
+    "().md",
+    "COMP306/Lecture Notes.md",
     "COMP301/Lectures/lecture 05 - Lists and recursion.pdf",
     "COMP301/Lecture Notes.md",
-    "COMP301/Lectures/Lecture 04 -- Structures and Patterns in Functional Programming.pdf",
+    "COMP301/ps/78940_mbudak21_ps3.pdf",
+    "COMP301/ps/mso8F05.tmp",
     "COMP301/Lectures/lecture 06 - Inductive Sets of Data.pdf",
     "COMP301/Lectures/Lecture 03 -- Functional Programming.pdf",
     "COMP301/Lectures/Lecture 02 -- Programming Paradigms.pdf",
     "COMP301/Lectures/Lecture 01 -- Intro to the syllabus.pdf",
     "ENGR421/Lecture Notes.md",
-    "COMP306/Lecture Notes.md",
     "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
     "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
-    "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf",
     "HIST300/Introduction.md",
     "COMP302/Lecture Notes.md"
   ]
