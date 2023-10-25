@@ -4,16 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "8478ee48a26bb45b",
+        "id": "96bd9811d119fa87",
         "type": "tabs",
+        "dimension": 53.99201596806387,
         "children": [
           {
-            "id": "0fdd95f1910be716",
+            "id": "5b0eb8bd434143da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch1.pdf"
+              }
+            }
+          },
+          {
+            "id": "35400d803f1b6f60",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch2.pdf"
+              }
+            }
+          },
+          {
+            "id": "0553aeb8c713f8d1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch3-5.pdf"
+              }
+            }
+          },
+          {
+            "id": "4a8e308739937b81",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch9.pdf"
+              }
+            }
+          },
+          {
+            "id": "495416a44f2e0415",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch10-11.pdf"
+              }
+            }
+          },
+          {
+            "id": "8df074a52a0a5a82",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch13.pdf"
+              }
+            }
+          },
+          {
+            "id": "26089633adff22c1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch14.pdf"
+              }
+            }
+          },
+          {
+            "id": "56a6aca7bb7e98ca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch15.pdf"
+              }
+            }
+          },
+          {
+            "id": "82a2a423a55dbe6f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP302/slides/Larman Ch16.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8ab00771147b6f06",
+        "type": "tabs",
+        "dimension": 46.007984031936125,
+        "children": [
+          {
+            "id": "701aa525d029ae7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP302/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -85,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP302/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/Lecture Notes.md",
+                "file": "COMP302/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/Lecture Notes.md"
+                "file": "COMP302/Lecture Notes.md"
               }
             }
           }
@@ -146,22 +246,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fdd95f1910be716",
+  "active": "701aa525d029ae7d",
   "lastOpenFiles": [
-    "COMP301/Lecture Notes.md",
-    "COMP301/Lectures/lecture 06 - Inductive Sets of Data.pdf",
-    "COMP302/alchemists-rules-en.pdf",
-    "COMP302/Project Description.pdf",
-    "ENGR421/HW1/hw01_class_labels.csv",
-    "ENGR421/HW1/0099999.py",
-    "ENGR421/HW1/hw01_data_points.csv",
-    "ENGR421/HW1/hw01_description.pdf",
-    "ENGR421/HW1",
-    "ENGR421/New folder",
-    "COMP306/Slides/04-ER-to-Relational.pdf",
+    "COMP302/slides/Larman Ch2.pdf",
+    "COMP302/Lecture Notes.md",
+    "Pasted image 20231025232536.png",
+    "Pasted image 20231025232534.png",
+    "COMP302/slides/Larman Ch1.pdf",
+    "Pasted image 20231025230907.png",
+    "Pasted image 20231025230659.png",
+    "Pasted image 20231025230408.png",
+    "COMP302/slides/Larman Ch16.pdf",
+    "COMP302/slides/Larman Ch15.pdf",
+    "COMP302/slides/Larman Ch14.pdf",
+    "COMP302/slides/Larman Ch13.pdf",
+    "COMP302/slides/Larman Ch10-11.pdf",
+    "COMP302/slides/Larman Ch9.pdf",
+    "COMP302/slides/Larman Ch3-5.pdf",
+    "COMP302/group_project/sample.pdf",
     "ENGR421/Lecture Notes.md",
     "COMP306/Lecture Notes.md",
-    "HIST300/Introduction.md",
-    "COMP302/Lecture Notes.md"
+    "COMP301/Lecture Notes.md",
+    "HIST300/Introduction.md"
   ]
 }

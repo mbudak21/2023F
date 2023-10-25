@@ -51,3 +51,6 @@ A "superkey," on the other hand, is a set of one or more attributes that uniquel
 * Entity Integrity Constratint:
 * Referential Integrity Constraint:
 
+
+# Lec 08 - ER Model Conversion (Steps: 3-7)
+
