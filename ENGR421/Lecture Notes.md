@@ -137,3 +137,11 @@ Here $p(X|\theta)$is the likelihood, $p(\theta)$ is the prior, and $p(X)$ is the
 
 --- 
 # Lec 07 - Linear Discrimination
+$g(x) = w^T.x + w_0$
+$p(x|y=1) = N(x;\mu_1, \Sigma_1)$ $p(x|y=2) = N(x;\mu_2, \Sigma_2)$
+**Assumption:** $\Sigma_1 = \Sigma_2$
+
+Need to calculate covariance matrix, but it is very difficult to compute.
+
+# Lec 08 - 
+
