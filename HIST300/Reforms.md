@@ -76,3 +76,9 @@ Translation Office
 	Symbolises the acceptence of the consolidations of power in CHP.
 1930 - Second Trial Of Multi-Party
 	[Serbest Cumhuriyet Fırkası](https://tr.wikipedia.org/wiki/Serbest_Cumhuriyet_F%C4%B1rkas%C4%B1 "Serbest Cumhuriyet Fırkası")
+
+## Single Party Era and the Reforms and the Economic Transformation of the Turkish Republic 1923 till 1938
+6 arrows of RPP (CHP)
+American Definition of Republic vs Turkish Republic
+1930: The Great depression
+Soviet Russia Model

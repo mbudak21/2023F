@@ -81,8 +81,26 @@ Step 1: Mapping of Regular Entities
 Step 2: Mapping of Weak Entities
 Step 3: Mapping of Binary 1:1 Relationships
 Step 4: Mapping of Binary 1:N Relationships
+	Add foreign key of singular entity to the model of `N entitiy`.
+	Entitiy on the `1` side references `N` side entity.
 Step 5: Mapping of Binary M:N Relationships
+	Create a relationship table just for this relation. Which let's us track which entity relates to which entity. ex: driver car relationship
+	Create a owns relationship
+	
+| Customer      | Car | Owns_since |
+|-----------|---------|------------|
+| John      | CarX    | somedate   |
+| John      | CarY    | somedate   |
+| Emily     | CarY    | somedate   |
+
 Step 6: Mapping of Multivalued Attributes
 Step 7: Mapping of N-ary Relationships (eg: ternary)
+
+
+## Relational Algebra
+**Projection:** --Symbol: $\pi$
+	**Desc:** Chooses colums
+	**Example:** $^\pi \text{sname, rating}^{(S2)}$ -> display only colums sname and rating
+	
 
 

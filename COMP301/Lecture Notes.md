@@ -122,3 +122,9 @@ Transform lists by selectively choosing each element according to the procedure.
 ### Reduce
 Transforms lists by 
 `(reduce proc init lst) -> <Value>`
+
+# Lecture 08 - Interfaces & Representation
+Interface vs Implementation
+- I don't care how you manage it, but i'll be happy as long as...
+- The particular way in which I accomplish my goal is by...
+- 
