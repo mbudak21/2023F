@@ -4,26 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "803c6f366c875bba",
+        "id": "380a60324073f6d1",
         "type": "tabs",
         "children": [
           {
-            "id": "d283418fbb24c27f",
+            "id": "d8c95471606a5094",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ENGR421/HW1/hw01_description.pdf"
+                "file": "COMP306/Slides/05-Relational-Algebra.pdf"
               }
             }
           },
           {
-            "id": "1122b4ec9cb75e29",
+            "id": "43374d6546a39a25",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sylabuses/ENGR421.pdf"
+                "file": "COMP306/Slides/04-ER-to-Relational.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e5b873ea368aec6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c009eefa5890228c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP306/Lecture Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/HW1/hw01_description.pdf",
+                "file": "COMP306/Slides/04-ER-to-Relational.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/HW1/hw01_description.pdf",
+                "file": "COMP306/Slides/04-ER-to-Relational.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/HW1/hw01_description.pdf"
+                "file": "COMP306/Slides/04-ER-to-Relational.pdf"
               }
             }
           }
@@ -154,28 +173,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d283418fbb24c27f",
+  "active": "43374d6546a39a25",
   "lastOpenFiles": [
-    "sylabuses/ENGR421.pdf",
-    "ENGR421/HW1/hw01_description.pdf",
-    "sylabuses/COMP306.pdf",
-    "sylabuses/COMP302.pdf",
-    "sylabuses/COMP301.pdf",
-    "Pasted image 20231025232536.png",
-    "Pasted image 20231025232534.png",
-    "Pasted image 20231025230907.png",
-    "Pasted image 20231025230659.png",
-    "Pasted image 20231025230408.png",
-    "COMP302/Lecture Notes.md",
-    "COMP302/slides/Larman Ch2.pdf",
-    "COMP302/slides/Larman Ch1.pdf",
-    "COMP302/slides/Larman Ch16.pdf",
-    "COMP302/slides/Larman Ch15.pdf",
-    "COMP302/slides/Larman Ch14.pdf",
-    "COMP302/slides/Larman Ch13.pdf",
-    "ENGR421/Lecture Notes.md",
     "COMP306/Lecture Notes.md",
-    "COMP301/Lecture Notes.md",
-    "HIST300/Introduction.md"
+    "COMP306/Slides/05-Relational-Algebra.pdf",
+    "ENGR421/Lecture Notes.md",
+    "HIST300/Introduction.md",
+    "HIST300/Reforms.md",
+    "Pasted image 20231029224019.png",
+    "images",
+    "images/Pasted image 20231025230408.png",
+    "COMP306/Slides/04-ER-to-Relational.pdf",
+    "COMP306/Slides/03-Relational-Model.pdf",
+    "COMP306/Slides/02-ER.pdf",
+    "COMP306/ps/comp306-psweek4.pdf",
+    "COMP306/ps/psweek4 answers.md",
+    "images/Pasted image 20231027230615.png",
+    "images/Pasted image 20231027225827.png",
+    "Participation Constratint.md",
+    "COMP306/Slide Notes.md",
+    "[].md",
+    "images/Pasted image 20231027223454.png",
+    "images/Pasted image 20231027181035.png",
+    "images/Pasted image 20231027161532.png",
+    "images/Pasted image 20231027161415.png",
+    "images/Pasted image 20231027160851.png",
+    "images/Pasted image 20231027155229.png",
+    "COMP306/Slides/01-Introduction.pdf",
+    "COMP302/slides/Larman Ch1.pdf",
+    "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
+    "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf",
+    "COMP302/Lecture Notes.md",
+    "COMP301/Lecture Notes.md"
   ]
 }

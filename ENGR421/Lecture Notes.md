@@ -145,3 +145,21 @@ Need to calculate covariance matrix, but it is very difficult to compute.
 
 # Lec 08 - 
 
+---
+# Lec 09 - Linear Discrimination
+### Step 1
+Small values are chosen for a small bias.
+### Step 2
+
+### Step 3
+### Step 4
+How to stop
+$||w||_2 = \text{euclidian distance}$
+
+All steps are implemented in Lab 3. Next homework will be about Linear discrimination.
+
+## Linear Discrimination (Multiple Classes K>2)
+
+Most software implementations don't use reference and non-reference functions but instead they use the softmax function. 
+
+SCORES -> g(c) scores
