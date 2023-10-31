@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "10387b4620dd0a1d",
+        "id": "9bd4d29606e5cae2",
         "type": "tabs",
         "children": [
           {
-            "id": "21fce95c25c491d7",
+            "id": "4550d66a27e48baf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HIST300/Reforms.md",
-                "mode": "source",
-                "source": false
+                "file": "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf"
+              }
+            }
+          },
+          {
+            "id": "6f24e21a7770f39d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIST300/Reforms.md",
+                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIST300/Reforms.md",
+                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIST300/Reforms.md"
+                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf"
               }
             }
           }
@@ -146,21 +155,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21fce95c25c491d7",
+  "active": "6f24e21a7770f39d",
   "lastOpenFiles": [
+    "ENGR421/HW1/0078940.py",
+    "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
+    "ENGR421/lectures/Lecture 02 - Supervised Learning.pdf",
+    "ENGR421/lectures/Lecture 01 - Introduction.pdf",
+    "ENGR421/lectures/Lecture 07 - Linear Discrimination.pdf",
+    "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf",
+    "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
+    "ENGR421/Lecture Notes.md",
+    "HIST300/Reforms.md",
+    "ENGR421/HW1/test.ipynb",
     "COMP301/Lecture Notes.md",
     "COMP306/Lecture Notes.md",
     "COMP306/Slides/05-Relational-Algebra.pdf",
     "COMP306/Slides/04-ER-to-Relational.pdf",
-    "ENGR421/Lecture Notes.md",
     "HIST300/Introduction.md",
-    "HIST300/Reforms.md",
     "Pasted image 20231029224019.png",
     "images",
     "images/Pasted image 20231025230408.png",
-    "COMP306/Slides/03-Relational-Model.pdf",
-    "COMP306/Slides/02-ER.pdf",
-    "COMP306/ps/comp306-psweek4.pdf",
     "COMP306/ps/psweek4 answers.md",
     "images/Pasted image 20231027230615.png",
     "images/Pasted image 20231027225827.png",
@@ -173,10 +187,6 @@
     "images/Pasted image 20231027161415.png",
     "images/Pasted image 20231027160851.png",
     "images/Pasted image 20231027155229.png",
-    "COMP306/Slides/01-Introduction.pdf",
-    "COMP302/slides/Larman Ch1.pdf",
-    "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
-    "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf",
     "COMP302/Lecture Notes.md"
   ]
 }
