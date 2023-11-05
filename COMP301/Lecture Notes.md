@@ -127,4 +127,17 @@ Transforms lists by
 Interface vs Implementation
 - I don't care how you manage it, but i'll be happy as long as...
 - The particular way in which I accomplish my goal is by...
-- 
+```scheme
+
+(define counter
+  (lambda (tic)
+    (lambda (b)
+      (if (eq? b 0)
+          tic
+          ((set! tic (+ tic 1)) tic)
+      )
+    )
+  )
+)
+      
+```

@@ -4,26 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "9bd4d29606e5cae2",
+        "id": "86c539fa93e6fd8e",
         "type": "tabs",
         "children": [
           {
-            "id": "4550d66a27e48baf",
+            "id": "65013623631bbc14",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf"
+                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "6f24e21a7770f39d",
+            "id": "0a03817ef2852a34",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf"
+                "file": "Multivariate Methods.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf",
+                "file": "Multivariate Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf",
+                "file": "Multivariate Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf"
+                "file": "Multivariate Methods.md"
               }
             }
           }
@@ -155,25 +159,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f24e21a7770f39d",
+  "active": "0a03817ef2852a34",
   "lastOpenFiles": [
-    "ENGR421/HW1/0078940.py",
-    "ENGR421/lectures/Lecture 05 - Multivariate Methods.pdf",
+    "ENGR421/Obsidian Notes/!Table Of Contents.md",
+    "Multivariate Methods.md",
+    "ENGR421/Obsidian Notes/Week2/Parametric Methods.md",
+    "ENGR421/Obsidian Notes/Week2/Density Estimation.md",
+    "ENGR421/Obsidian Notes/Week2/MLE.md",
+    "ENGR421/Obsidian Notes/Week2/MAP.md",
+    "ENGR421/Obsidian Notes/Week2/Bayes' Rule.md",
+    "Bayes' theorem.md",
+    "ENGR421/lectures/Lecture 03 - Parametric Methods.pdf",
     "ENGR421/lectures/Lecture 02 - Supervised Learning.pdf",
-    "ENGR421/lectures/Lecture 01 - Introduction.pdf",
-    "ENGR421/lectures/Lecture 07 - Linear Discrimination.pdf",
-    "ENGR421/lectures/Lecture 06 - Linear Discrimination.pdf",
+    "ENGR421/Obsidian Notes/Lecture Notes.md",
     "ENGR421/lectures/Lecture 04 - Parametric Methods.pdf",
-    "ENGR421/Lecture Notes.md",
+    "ENGR421/lectures/Lecture 01 - Introduction.pdf",
+    "ENGR421/Obsidian Notes/Week4",
+    "ENGR421/Obsidian Notes/Week3",
+    "ENGR421/Obsidian Notes/Week2",
+    "ENGR421/Obsidian Notes/Week1",
+    "ENGR421/Obsidian Notes/Week5",
+    "Week5",
+    "ENGR421/Obsidian Notes/Week1/Supervised Learning.md",
+    "ENGR421/Obsidian Notes/Week1/Classification.md",
+    "ENGR421/Obsidian Notes/Week2/non-Parametric Methods.md",
+    "ENGR421/Obsidian Notes/Week1/Unsupervised Learning.md",
+    "ENGR421/Obsidian Notes/Week1/Clustering.md",
+    "ENGR421/Obsidian Notes/Week1/Regression.md",
+    "ENGR421/Obsidian Notes/Week1/ENGR421 Introduction.md",
+    "ENGR421/Obsidian Notes/Week1/Association.md",
+    "HIST300/Introduction.md",
+    "[.md",
     "HIST300/Reforms.md",
-    "ENGR421/HW1/test.ipynb",
     "COMP301/Lecture Notes.md",
     "COMP306/Lecture Notes.md",
-    "COMP306/Slides/05-Relational-Algebra.pdf",
-    "COMP306/Slides/04-ER-to-Relational.pdf",
-    "HIST300/Introduction.md",
-    "Pasted image 20231029224019.png",
-    "images",
+    "images/Pasted image 20231029224019.png",
     "images/Pasted image 20231025230408.png",
     "COMP306/ps/psweek4 answers.md",
     "images/Pasted image 20231027230615.png",
@@ -186,7 +206,6 @@
     "images/Pasted image 20231027161532.png",
     "images/Pasted image 20231027161415.png",
     "images/Pasted image 20231027160851.png",
-    "images/Pasted image 20231027155229.png",
-    "COMP302/Lecture Notes.md"
+    "images/Pasted image 20231027155229.png"
   ]
 }

@@ -82,3 +82,50 @@ Translation Office
 American Definition of Republic vs Turkish Republic
 1930: The Great depression
 Soviet Russia Model
+
+## Turkish Foreign Policy (1923-1945)
+1925 - Turkish Soviet Friendship Treaty
+1935 - Renewal of the Soviet treaty
+
+Peace at home, peace abroad
+
+Mussolini - Mare Nostrum
+
+1932 - Turkey became a member of League of Nations
+
+* 1930s - Regional Alliances, Mostly defensive alliances
+	* Balkan Entente Pact (1934) - Romania, Greece, Yugoslavia, Turkey
+		If Bulgaria were to attack, these countries would defend against it
+	* Montreux Convention (1936) 
+	* Sadabad Pact (1937) - Iran, Iraq, Afghanistan
+
+Hatay Issue (Sanjak of Alexandria)
+
+### Turkey and the Second World War
+How did the second world war start?
+	Appeasement Policy
+	German-Soviet Non-Agression Pact 1939
+		Turkey was very unhappy with this agreement, the soviets didn't uyarmak Turkey in the context of their friendship. The turkey wasnt sure what was gonna happen.
+	
+The process of the Second World War
+	1938 - Ataturk passes away
+	1939 - Tripartite Alliance, Anglo-Franco-Turkish Treaty
+	1941 - Turkish-German Non-Agression Pact
+	1941 - Clodius Agreement
+	Blitzkrieg tactic of Germans
+	Operation Barbossa and German invasion of Soviet Union
+	Japanese attack of Pearl Harbor in 1941
+
+Foreign Policy of Turkey During the Second World War:
+	Active Neutratility
+
+Domestic Effects of the Second World War:
+	National Defence Law (1940)
+	Wealth Tax (1942)
+		95% of tax was collected from non-muslisms
+		Gayri müslim varlıklarına yönelik vergi alındı
+	Office of Soil Products
+	Forestry Enterprises
+
+	
+	
