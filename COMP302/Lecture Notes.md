@@ -29,8 +29,8 @@ Illustrates:
 Introduction to iterative development
 
 **Timeboxing:** Fixed in length.
-**Iterations:** Development cycles.
-
+**Iterations:** Development cycles. The outcome of each iterative cycle is a tested, integrated, and executable *partial* system. The system grows incrementally.
+ 
 Development is organized into a series of short, fixed-length (for example, three-week) mini-projects called **iterations**.
  ![[Pasted image 20231025232536.png]]
 
@@ -42,8 +42,6 @@ Some principles:
 	The main purpose is to understand, not document in analyses.
 	Good enough is the goal.
 	Expect inaccuracies and imperfections.
-
-
 ### Unified Process (UP) Phases
 
 #### 1. Inception
@@ -54,3 +52,18 @@ Refined vision, iterative implementation of the core architecture, resolution of
 Iterative implementation of the remaining lower risk and easier elements, and prepreration for deployement.
 #### 4. Transition
 Beta tests, deployement.
+
+# Larman CH3-5 - Case Studies
+OOA/D: Object oriented analysis and design
+requirement bs
+
+
+# Larman CH9
+## How to create a Domain Model?
+
+Find conceptual Classes
+* Re-use or modify existing models
+* Use a category list
+* Identify noun phrases
+Draw them as classes in a UML class diagram
+Add associations and attributes

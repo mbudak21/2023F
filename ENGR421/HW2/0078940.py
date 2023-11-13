@@ -36,7 +36,13 @@ fig.savefig("hw02_images.pdf", bbox_inches = "tight")
 # should return X_train, y_train, X_test, and y_test
 def train_test_split(X, y):
     # your implementation starts below
-    
+    trainset_size = 60000
+
+    X_train = X[0:trainset_size]
+    X_test = X[trainset_size:]
+
+    y_train = y[0:trainset_size]
+    y_test = y[trainset_size:]
     # your implementation ends above
     return(X_train, y_train, X_test, y_test)
 
@@ -53,7 +59,8 @@ print(y_test.shape)
 # should return a numpy array with shape (N, K)
 def sigmoid(X, W, w0):
     # your implementation starts below
-    
+    Z = np.dot(X, W) + w0
+    scores = 1 / (1 + np.exp(-Z))
     # your implementation ends above
     return(scores)
 
@@ -65,6 +72,11 @@ def sigmoid(X, W, w0):
 def one_hot_encoding(y):
     # your implementation starts below
     
+    K = np.max(y)
+    Y = np.zeros((y.shape[0], K))
+    Y[np.arange(y.shape[0]), y-1] = 1
+    
+
     # your implementation ends above
     return(Y)
 
@@ -84,7 +96,7 @@ w0_initial = np.random.uniform(low = -0.001, high = 0.001, size = (1, K))
 # should return a numpy array with shape (D, K)
 def gradient_W(X, Y_truth, Y_predicted):
     # your implementation starts below
-    
+    gradient = np.dot(X.T, (Y_predicted - Y_truth))
     # your implementation ends above
     return(gradient)
 
@@ -92,7 +104,7 @@ def gradient_W(X, Y_truth, Y_predicted):
 # should return a numpy array with shape (1, K)
 def gradient_w0(Y_truth, Y_predicted):
     # your implementation starts below
-    
+    gradient = np.sum(Y_predicted - Y_truth, axis=0, keepdims=True)
     # your implementation ends above
     return(gradient)
 
@@ -110,6 +122,13 @@ def discrimination_by_regression(X_train, Y_train,
     w0 = w0_initial
         
     # your implementation starts below
+    objective_values = np.zeros(iteration_count)
+    for i in range(iteration_count):
+        Y_predicted = sigmoid(X_train, W, w0)
+        W -= eta * gradient_W(X_train, Y_train, Y_predicted)
+        w0 -= eta * gradient_w0(Y_train, Y_predicted)
+        objective_values[i] = np.mean(np.square(Y_train - Y_predicted))
+
     
     # your implementation ends above
     return(W, w0, objective_values)

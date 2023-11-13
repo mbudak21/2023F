@@ -128,7 +128,6 @@ Interface vs Implementation
 - I don't care how you manage it, but i'll be happy as long as...
 - The particular way in which I accomplish my goal is by...
 ```scheme
-
 (define counter
   (lambda (tic)
     (lambda (b)
@@ -138,6 +137,14 @@ Interface vs Implementation
       )
     )
   )
-)
-      
+)```
+
+# Lecture X
+
+```scheme
+(value-of exp p) = val
 ```
+value-of: gives the semantics
+exp: expression
+p: environment
+Finds the value of the given expression by evaluating it in the given environment.

@@ -4,7 +4,7 @@ A regression problem is when the output variable is a real value, such as “dol
 * Forecasting
 
 **Types:**
-- Linear Regreesion
+- [[Linear Regreesion]]
 - Logistic Regression
 - Classification
 - Naive Bayes Classifiers

@@ -2,6 +2,7 @@ Parametrics methods are used for problems in which we assume a specific distribu
 
 #### Algorithms That Use Parametric Methods
 - [[Density Estimation]]
+- [[Parametric Regression]]
 
 
 On the other hand, in [[non-Parametric Methods]] we don't assume any distribution. They are also called distribution-free methods.
