@@ -23,13 +23,70 @@ $R$ contains:
 - Owner (strong) entity's **primary key** -> **foreign key** in $R$
 - All attributes of the weak entity.
 - All attributes of the identifying relationship (if any).
-Primary key of R is the combination of the primary key of the owner plus the partial key of the weak entity.
-## Step 3: Mapping of Binary 1:1 Relationships
-## Step 4: Mapping of Binary 1:N Relationships
-	Add foreign key of singular entity to the model of `N entitiy`.
-	Entitiy on the `1` side references `N` side entity.
-## Step 5: Mapping of Binary M:N Relationships
-	Create a relationship table just for this relation. Which let's us track which entity relates to which entity. ex: driver car relationship
-	Create a owns relationship
+Primary key of R is the **combination** of the primary key of the owner plus the partial key of the weak entity.
+## Step 3: Binary 1:1 Relationships
+There are 3 cases:
+* **(3A)** Participation constraint on one side
+* **(3B)** Participation constraint on both sides
+* **(3C)** No participation constraint
+
+### 3A
+![[Pasted image 20231113205850.png]]
+Add **T**'s primary key to **S**'s relation as foreign key
+Any attribute of relationship **R** is also added to **S**
+
+**Example:**
+	![[Pasted image 20231113210650.png]]
+
+### 3B
+![[Pasted image 20231113210715.png]]
+Merge the relations for **S** and **T** into a single relation.
+
+**Example:**
+	![[Pasted image 20231113210816.png]]
+
+### 3C
+![[Pasted image 20231113210917.png]]
+Create a new relation for relationship **R**, use **S** and **T**'s primary keys as foreign keys in **R**. 
+
+**Example:**
+	![[Pasted image 20231113211030.png]]
+
+## Step 4: Binary 1:N Relationships
+![[Pasted image 20231113211120.png]]
+Add the primary key of **T** as foreign key in **S**.
+Add the simple attributes of **R** to **S**.
+
+**Example:**
+	![[Pasted image 20231113211243.png]]
+	Self Referencing:
+	![[Pasted image 20231113211407.png]]
+	
+## Step 5: Binary N:M Relationships
+![[Pasted image 20231113211515.png]]
+Create a new relation **R** for this relationship.
+Add **S** and **T**'s primary keys as foreign key in **R**, and add any attributes **R** may have.
+The *combination* of **S** and **T**'s primary keys is the primary key of **R**.
+
+**Example:**
+	![[Pasted image 20231113213328.png]]
+
 ## Step 6: Mapping of Multivalued Attributes
-## Step 7: Mapping of N-ary Relationships (eg: ternary)
+![[Pasted image 20231113213432.png]]
+Create a new relation **R** for each multivalued attribute.
+Add primary key of entity to **R**, as foreign key.
+Primary key of **R** is the *combination* of the multi-valued attribute + the added foreign key
+
+**Example:** 
+	![[Pasted image 20231113213657.png]]
+
+## Step 7: Mapping of N-ary Relationships (3-ary, 4-ary, etc.)
+Create new relation **R**
+Add primary keys of all partipicating entities to **R**, as foreign keys.
+Add any attribute the relationship itself may have.
+Primary key of **R** is typically the combination of all foreign keys added in the first step.
+
+**Example:**
+	![[Pasted image 20231113213927.png]]
+	![[Pasted image 20231113213936.png]]
+

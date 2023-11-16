@@ -3,10 +3,11 @@
 1.  [[ENGR421 Introduction]]
 2. [[Supervised Learning]]
 	1. [[Classification]]
-			[[Parametric Classification]]
-	2. [[ Regression]]
-		 [[Linear Regreesion]]
-3. [[Unsupervised Learning]]
+	    [[Parametric Classification]]
+		    [[Bayesian Decision Theory]]
+	1. [[ Regression]]
+	     [[Linear Regreesion]]
+1. [[Unsupervised Learning]]
 	1. [[Clustering]]
 	2. [[Association]]
 ----
@@ -22,4 +23,3 @@
 	[[KNN]]
 ----
 6. [[Multivariate Methods]]
-7. 

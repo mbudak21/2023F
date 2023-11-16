@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3ab44cc650638a",
+        "id": "cc523c8171d00964",
         "type": "tabs",
         "children": [
           {
-            "id": "c2666ec838bf603b",
+            "id": "19149a55f513dbb0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "COMP306/Week 4/04-ER-to-Relational.pdf"
+                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "52b8cd788f112099",
-        "type": "split",
-        "children": [
-          {
-            "id": "81012be98724bba7",
-            "type": "tabs",
-            "dimension": 60.3896103896104,
-            "children": [
-              {
-                "id": "ead4b09bb7bc4cb2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "COMP306/Week 4/Conversion Algorithm.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "4c59a22fb5948fbd",
-            "type": "tabs",
-            "dimension": 39.61038961038961,
-            "children": [
-              {
-                "id": "50eb52fb3c849778",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "COMP306/Lecture Notes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP306/Week 4/Conversion Algorithm.md",
+                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP306/Week 4/Conversion Algorithm.md",
+                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP306/Week 4/Conversion Algorithm.md"
+                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md"
               }
             }
           }
@@ -189,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead4b09bb7bc4cb2",
+  "active": "19149a55f513dbb0",
   "lastOpenFiles": [
-    "COMP306/Week 4/04-ER-to-Relational.pdf",
-    "COMP306/Week 4/Conversion Algorithm.md",
-    "Pasted image 20231112172006.png",
-    "Pasted image 20231112171033.png",
-    "COMP306/Lecture Notes.md",
-    "COMP306/Week 5/Untitled.md",
-    "COMP306/Week 3/Relational Model.md",
-    "Pasted image 20231112170349.png",
-    "COMP306/Week 3/03-Relational-Model.pdf",
-    "COMP306/Week 2/ER Model.md",
-    "COMP306/Week 2/Mini-world.md",
-    "COMP306/Week 2/Entities.md",
-    "COMP306/Week 2/02-ER.pdf",
-    "COMP306/Week 2/Attributes.md",
-    "images/Pasted image 20231112154352.png",
-    "images/Pasted image 20231112153844.png",
-    "Metadata.md",
-    "Data.md",
-    "COMP306/Week 1/01-Introduction.pdf",
-    "COMP306/Week 5",
-    "COMP306/New folder",
-    "COMP306/Week 4",
-    "COMP306/Week 3",
-    "COMP306/Week 2",
-    "COMP306/Week 1",
-    "COMP306/ps/psweek4 answers.md",
-    "images/Pasted image 20231107223759.png",
-    "ENGR421/Obsidian Notes/Parametric Regression.md",
-    "ENGR421/Obsidian Notes/Week2/likelihood.md",
+    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
+    "Bayesian Decision Theory.md",
+    "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
     "ENGR421/Obsidian Notes/!Table Of Contents.md",
-    "ENGR421/Obsidian Notes/Week2/Parametric Methods.md",
+    "ENGR421/Obsidian Notes/Lecture Notes.md",
+    "ENGR421/Obsidian Notes/Week 1/Regression.md",
+    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
+    "ENGR421/Obsidian Notes/Week 1/Classification.md",
+    "Loss Function.md",
+    "MSE.md",
+    "ENGR421/Obsidian Notes/Week 1/Association.md",
+    "ENGR421/Obsidian Notes/Week 5/Multi-Layer Perceptron.md",
+    "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf",
+    "ENGR421/Obsidian Notes/Week 5",
+    "ENGR421/Obsidian Notes/Week 4/Lecture 08 - Linear Discrimination.pdf",
+    "ENGR421/Obsidian Notes/Week 4/Lecture 07 - Linear Discrimination.pdf",
+    "ENGR421/Obsidian Notes/Week 4",
+    "ENGR421/Obsidian Notes/Week 3/Lecture 06 - Linear Discrimination.pdf",
+    "ENGR421/Obsidian Notes/Week 3/Lecture 05 - Multivariate Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 3",
+    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
+    "ENGR421/Obsidian Notes/Week 2/non-Parametric Methods.md",
+    "ENGR421/Obsidian Notes/Week 2/MLE.md",
+    "ENGR421/Obsidian Notes/Week 2/MAP.md",
+    "ENGR421/Obsidian Notes/Week 2/likelihood.md",
+    "ENGR421/Obsidian Notes/Week 2/Lecture 04 - Parametric Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 2/Lecture 03 - Parametric Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 2/Density Estimation.md",
+    "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
+    "ENGR421/Obsidian Notes/Week 1/Linear Regreesion.md",
+    "ENGR421/Obsidian Notes/Week 1/ENGR421 Introduction.md",
+    "ENGR421/Obsidian Notes/Week 1/Clustering.md",
+    "COMP302/group_project/D1 Specifications.md",
     "COMP302/Lecture Notes.md",
-    "COMP301/Lecture Notes.md",
-    "ENGR421/Obsidian Notes/Week1/Regression.md",
-    "ENGR421/Obsidian Notes/Week2/Density Estimation.md",
-    "ENGR421/Obsidian Notes/Week2/Parametric Classification.md",
-    "ENGR421/Obsidian Notes/Week2/Bayes' Rule.md",
-    "ENGR421/Obsidian Notes/Week2/MLE.md",
-    "ENGR421/Obsidian Notes/Week2/MAP.md",
-    "ENGR421/Obsidian Notes/Week1/Linear Regreesion.md",
-    "Multivariate Methods.md",
-    "images/Pasted image 20231029224019.png",
-    "images/Pasted image 20231025230408.png",
-    "images/Pasted image 20231027230615.png",
-    "images/Pasted image 20231027225827.png"
+    "Pasted image 20231115120013.png",
+    "ENGR421/Obsidian Notes/Week1/Supervised Learning.md",
+    "Hypothesis class.md",
+    "images/Pasted image 20231114133231.png",
+    "images/Pasted image 20231114142834.png",
+    "images/Pasted image 20231114142207.png",
+    "images/Pasted image 20231114140738.png",
+    "images/Pasted image 20231114140609.png",
+    "images/Pasted image 20231113213936.png",
+    "images/Pasted image 20231112170349.png",
+    "images/Pasted image 20231113213927.png",
+    "images/Pasted image 20231113213657.png"
   ]
 }
