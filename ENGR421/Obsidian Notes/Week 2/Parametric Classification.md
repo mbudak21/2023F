@@ -1,7 +1,7 @@
 
 ![[Pasted image 20231107223759.png]]  
 
-$g_c:$ Score function for class $c$
+$g_c:$ [[Score function]] for class $c$
 
 $$
 g_c(x)=log.Pr(y=c|x)

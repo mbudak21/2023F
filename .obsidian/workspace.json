@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cc523c8171d00964",
+        "id": "34f4ade2282a7dab",
         "type": "tabs",
         "children": [
           {
-            "id": "19149a55f513dbb0",
+            "id": "30375c2e0c401f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
+                "file": "COMP306/HW1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79cec65e2d53f0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP306/Week 5/Relational Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
+                "file": "COMP306/Week 5/Relational Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
+                "file": "COMP306/Week 5/Relational Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md"
+                "file": "COMP306/Week 5/Relational Algebra.md"
               }
             }
           }
@@ -146,45 +159,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19149a55f513dbb0",
+  "active": "79cec65e2d53f0c9",
   "lastOpenFiles": [
-    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
-    "Bayesian Decision Theory.md",
+    "COMP306/HW1.md",
+    "COMP306/Lecture Notes.md",
+    "HIST300/Introduction.md",
+    "HIST300/Reforms.md",
+    "COMP306/Week 5/05-Relational-Algebra.pdf",
+    "COMP306/Week 5/Relational Algebra.md",
+    "COMP306/Week 4/04-ER-to-Relational.pdf",
+    "ENGR421/Obsidian Notes/Week 2/Lecture 03 - Parametric Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
+    "Score function.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
+    "ENGR421/Obsidian Notes/Week 1/Classification.md",
     "ENGR421/Obsidian Notes/!Table Of Contents.md",
+    "Bayesian Decision Theory.md",
+    "ENGR421/Obsidian Notes/Week 2/Lecture 04 - Parametric Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf",
+    "ENGR421/Obsidian Notes/Week 2/non-Parametric Methods.md",
+    "MyCode/LinearRegression.ipynb",
+    "MyCode",
+    "SampleCode",
+    "New folder",
+    "ENGR421/lab/LinearRegression.ipynb",
+    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
     "ENGR421/Obsidian Notes/Lecture Notes.md",
     "ENGR421/Obsidian Notes/Week 1/Regression.md",
     "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
-    "ENGR421/Obsidian Notes/Week 1/Classification.md",
     "Loss Function.md",
     "MSE.md",
     "ENGR421/Obsidian Notes/Week 1/Association.md",
     "ENGR421/Obsidian Notes/Week 5/Multi-Layer Perceptron.md",
-    "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf",
-    "ENGR421/Obsidian Notes/Week 5",
-    "ENGR421/Obsidian Notes/Week 4/Lecture 08 - Linear Discrimination.pdf",
-    "ENGR421/Obsidian Notes/Week 4/Lecture 07 - Linear Discrimination.pdf",
-    "ENGR421/Obsidian Notes/Week 4",
-    "ENGR421/Obsidian Notes/Week 3/Lecture 06 - Linear Discrimination.pdf",
-    "ENGR421/Obsidian Notes/Week 3/Lecture 05 - Multivariate Methods.pdf",
-    "ENGR421/Obsidian Notes/Week 3",
-    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
-    "ENGR421/Obsidian Notes/Week 2/non-Parametric Methods.md",
     "ENGR421/Obsidian Notes/Week 2/MLE.md",
     "ENGR421/Obsidian Notes/Week 2/MAP.md",
     "ENGR421/Obsidian Notes/Week 2/likelihood.md",
-    "ENGR421/Obsidian Notes/Week 2/Lecture 04 - Parametric Methods.pdf",
-    "ENGR421/Obsidian Notes/Week 2/Lecture 03 - Parametric Methods.pdf",
     "ENGR421/Obsidian Notes/Week 2/Density Estimation.md",
     "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
     "ENGR421/Obsidian Notes/Week 1/Linear Regreesion.md",
-    "ENGR421/Obsidian Notes/Week 1/ENGR421 Introduction.md",
-    "ENGR421/Obsidian Notes/Week 1/Clustering.md",
-    "COMP302/group_project/D1 Specifications.md",
-    "COMP302/Lecture Notes.md",
     "Pasted image 20231115120013.png",
-    "ENGR421/Obsidian Notes/Week1/Supervised Learning.md",
-    "Hypothesis class.md",
     "images/Pasted image 20231114133231.png",
     "images/Pasted image 20231114142834.png",
     "images/Pasted image 20231114142207.png",

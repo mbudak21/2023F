@@ -2,19 +2,19 @@
 Sultan got power from god.
 **Ulema:** Religious scholars. 
 **Şeyhül İslam:** Highest ranking person of ulema.
-Müftü: Legal expert of ulema
-Kadı: Judge of ulema
-Ruling elite: Ottoman Empire and ulema (askeri)
+**Müftü:** Legal expert of ulema
+**Kadı:** Judge of ulema
+**Ruling elite:** Ottoman Empire and ulema (askeri)
 
-Reaya: Flock of the sultan
-Askeri: The rulers, shepherds.
+**Reaya:** Flock of the sultan
+**Askeri:** The rulers, shepherds.
 
 ---
 ### Military
 Conquests were one of the primary sources of income.
 
 #### Timar System
-Ottoman Terrytory $\rightarrow$ Provience (Sancaks) $\rightarrow$ Villages
+Ottoman Territory $\rightarrow$ Provience (Sancaks) $\rightarrow$ Villages
 The right to govern and collect taxes from a certain region is given to a certain administrator for limited time. 
 The Administrator collects taxes, makes sure the are is cultivated, makes sure everything is in order, and he raises armies for the government. The army does not belong to him, which doesn't give him any power as the adminsitrator unlike in the european fedual systems lords.
 The Kadı of the region is the judge, he gives the sentence and the Tımar Holder commits the punishment.

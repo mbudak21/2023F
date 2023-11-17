@@ -65,3 +65,31 @@ CREATE TABLE VISITING_CUSTOMER
  FOREIGN KEY (ID) REFERENCES (CUSTOMER)
 )
 ```
+
+
+**Q3**
+a)
+$$
+Q_1 =\sigma_{Dname=Sales}(\text{Department})
+$$
+
+$$
+Q_2 = \sigma_{Bdate>01/01/1990}(\text{Employee})
+$$
+$$
+\pi_{\text{Fname, Bdate, Address, Salary}}(Q_1\bowtie_{Dnumber=Dno} Q_2)
+$$
+
+b)
+Employees in DP project
+$$
+Employees
+\bowtie
+\sigma_{Pname='DataPrivacy'}(Project)
+$$
+
+$$
+
+\bowtie
+\sigma_{Dnumber=8}(\text{Department})
+$$
