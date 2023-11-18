@@ -1,4 +1,4 @@
-
+![[WhatsApp Image 2023-11-17 at 22.55.43 1.jpeg]]
 ```SQLite
 CREATE TABLE BOOK
 (ISBN: INT,
@@ -68,7 +68,7 @@ CREATE TABLE VISITING_CUSTOMER
 
 
 **Q3**
-a)
+**a)**
 $$
 Q_1 =\sigma_{Dname=Sales}(\text{Department})
 $$
@@ -80,16 +80,69 @@ $$
 \pi_{\text{Fname, Bdate, Address, Salary}}(Q_1\bowtie_{Dnumber=Dno} Q_2)
 $$
 
-b)
-Employees in DP project
+**b)**
 $$
-Employees
-\bowtie
-\sigma_{Pname='DataPrivacy'}(Project)
+\pi_
+{\text{Fname, Minit, Lname}}
+	
+(\sigma_
+	{\text{Dnum} = 8 \wedge \text{Hours} > 20 \wedge \text{Pname} = 'DataPrivacy'} 
+(
+\text{Employee} 
+\bowtie _{Ssn=Essn}
+\text{Works\_On}
+\bowtie _{Pno=Pnumber}
+\text{Project}))
 $$
 
+
+**c)**
+
+Every Project Controlled By Departmen number 5:
+$$
+Q_1 =(\sigma_{Dnumber=5}\text{ Department})
+\bowtie_{\text{Dnumber=Dnum}}
+\text{Project}
+$$
+All Employees who work on $Q_2$:
+$$
+Q_2 = 
+\text{Employee}
+\bowtie_{Ssn=Essn}
+\text{WorksOn}
+\bowtie_{Pno=Pnumber}
+Q_1
+$$
+Answer:
+$$
+\pi_{\text{Lname, Salary}}(Q_2) 
+$$
+**d)**
+$$
+\pi_{\text{Lname Salary Super.Lname}}{
+(\rho_{12 \rightarrow \text{Super.Lname}}{
+(\text{Employee} - \pi_{\text{Ssn}}(\text{Employee} \bowtie_{\text{Ssn}=\text{Essn}} \text{WorksOn}))
+\bowtie_{SuperSsn=Ssn}
+\text{Employee}})
+}
 $$
 
-\bowtie
-\sigma_{Dnumber=8}(\text{Department})
+**e)**
+$$
+\pi_{\text{Dname}} (\sigma_{\text{Location} = 'Istanbul'} (\text{Dept\_Locations})) \cup \pi_{\text{Dname}} (\sigma_{\text{Plocation} = 'Istanbul'} (\text{Project} \bowtie \text{Department}))
+$$
+
+**f)**
+$$
+\pi_{\text{Pnumber}} (\sigma_{\text{E.Lname} = 'Gursoy' \wedge \text{M.Lname} = 'Gursoy'} (\text{Employee AS E} \bowtie \text{Works\_On} \bowtie \text{Project} \bowtie \text{Department} \bowtie \text{Employee AS M}))
+$$
+
+**g)**
+$$
+\pi_{\text{Lname, Salary}} (\sigma_{\text{Mgr\_start\_date} = (\pi_{\text{MAX(Mgr\_start\_date)}} (\text{Department}))} (\text{Employee} \bowtie \text{Department}))
+$$
+
+**h)**
+$$
+\pi_{\text{Fname, Lname}} (\sigma_{\text{E1.Bdate} < \text{E2.Bdate} \wedge \text{E1.Ssn} = \text{E2.Super\_Ssn}} (\text{Employee AS E1} \bowtie \text{Employee AS E2}))
 $$

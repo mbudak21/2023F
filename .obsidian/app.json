@@ -1,5 +1,11 @@
 {
   "showLineNumber": false,
   "rightToLeft": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 75
+  }
 }

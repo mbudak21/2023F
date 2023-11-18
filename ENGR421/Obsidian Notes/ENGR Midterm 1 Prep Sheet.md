@@ -1,0 +1,8 @@
+- [x] [[ENGR421 Introduction]]
+- [x] [[Supervised Learning]]
+- [ ] [[Parametric Methods]]
+- [ ] [[Multivariate Methods]]
+- [ ] [[Linear Discrimination]]
+- [ ] [[Multilayer Perceptrons]]
+- [ ] Labs
+- [ ] All Done!

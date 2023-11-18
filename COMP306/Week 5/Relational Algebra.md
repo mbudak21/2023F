@@ -13,8 +13,8 @@
 4. **Intersection ($\cap$)**: Retrieves only the rows that are common to the result sets of two or more queries.
     
 5. **Difference (Set Difference) ($-$)**: Returns rows from the first query that are not present in the second query's result set.
-    
-6. **Cartesian Product (Cross Product) ($\times$)**: Combines each row of one table with each row of another table, often used as a preliminary step in join operations.
+	
+1. **Cartesian Product (Cross Product) ($\times$)**: Combines each row of one table with each row of another table, often used as a preliminary step in join operations.
 	**Example:**
 		![[Pasted image 20231114142207.png|475]]
 		

@@ -4,28 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "34f4ade2282a7dab",
+        "id": "e3a0f83f4b7fdbb2",
         "type": "tabs",
         "children": [
           {
-            "id": "30375c2e0c401f25",
+            "id": "761e8cef94793c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP306/HW1.md",
+                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79cec65e2d53f0c9",
+            "id": "d4bfe4b25318c647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP306/Week 5/Relational Algebra.md",
+                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3ddc7f3b2b96a4a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 3/Lecture 05 - Multivariate Methods.pdf"
+              }
+            }
+          },
+          {
+            "id": "54a00717ecf17170",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 3/Lecture 06 - Linear Discrimination.pdf"
+              }
+            }
+          },
+          {
+            "id": "8cfe0d9762863c22",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 4/Lecture 07 - Linear Discrimination.pdf"
+              }
+            }
+          },
+          {
+            "id": "fe5d9268e1375293",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 4/Lecture 08 - Linear Discrimination.pdf"
+              }
+            }
+          },
+          {
+            "id": "bd2ee7d24c355c51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf"
+              }
+            }
+          },
+          {
+            "id": "886c0618b6c0af88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP306/Week 5/Relational Algebra.md",
+                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP306/Week 5/Relational Algebra.md",
+                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP306/Week 5/Relational Algebra.md"
+                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md"
               }
             }
           }
@@ -159,53 +221,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79cec65e2d53f0c9",
+  "active": "d4bfe4b25318c647",
   "lastOpenFiles": [
+    "ENGR421/(Adaptive Computation and Machine Learning) Ethem Alpaydin - Introduction to Machine Learning -The MIT Press (2004).pdf",
+    "ENGR421/Obsidian Notes/!Table Of Contents.md",
+    "ENGR421/Obsidian Notes/Parametric Regression.md",
+    "ENGR421/Obsidian Notes/Lecture Notes.md",
+    "ENGR421/Obsidian Notes/ENGR Midterm 1 Prep Sheet.md",
+    "ENGR421/Obsidian Notes/Week 2/Lecture 04 - Parametric Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 2/Lecture 03 - Parametric Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
+    "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf",
+    "ENGR421/Obsidian Notes/Week 4/Lecture 08 - Linear Discrimination.pdf",
+    "ENGR421/Obsidian Notes/Week 4/Lecture 07 - Linear Discrimination.pdf",
+    "ENGR421/Obsidian Notes/Week 3/Lecture 06 - Linear Discrimination.pdf",
+    "ENGR421/Obsidian Notes/Week 3/Lecture 05 - Multivariate Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 1/Lecture 02 - Supervised Learning.pdf",
+    "ENGR421/Obsidian Notes/Week 2/MLE.md",
+    "ENGR421/Obsidian Notes/Week 1/ENGR421 Introduction.md",
+    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
+    "COMP306/Midterm 1 Prep Sheet.md",
+    "COMP306/Week 3/03-Relational-Model.pdf",
+    "COMP306/!Table Of Contents.md",
+    "COMP306/Week 3/Relational Model.md",
+    "COMP306/Week 2/ER Model.md",
+    "COMP306/Week 2/Attributes.md",
+    "COMP306/Week 2/Entities.md",
+    "COMP306/ps/psweek4 answers.md",
+    "COMP306/Week 7/07-Advanced SQL.pdf",
+    "COMP306/Week 7/Advanced SQL.md",
+    "COMP306/Week 6/SQL.md",
+    "ENGR421/Score function.md",
+    "images/WhatsApp Image 2023-11-17 at 22.55.43.jpeg",
+    "images/Pasted image 20231115120013.png",
     "COMP306/HW1.md",
+    "images/WhatsApp Image 2023-11-17 at 22.55.43 1.jpeg",
+    "COMP306/Week 5/Relational Algebra.md",
     "COMP306/Lecture Notes.md",
     "HIST300/Introduction.md",
     "HIST300/Reforms.md",
-    "COMP306/Week 5/05-Relational-Algebra.pdf",
-    "COMP306/Week 5/Relational Algebra.md",
-    "COMP306/Week 4/04-ER-to-Relational.pdf",
-    "ENGR421/Obsidian Notes/Week 2/Lecture 03 - Parametric Methods.pdf",
-    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
-    "Score function.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
     "ENGR421/Obsidian Notes/Week 1/Classification.md",
-    "ENGR421/Obsidian Notes/!Table Of Contents.md",
-    "Bayesian Decision Theory.md",
-    "ENGR421/Obsidian Notes/Week 2/Lecture 04 - Parametric Methods.pdf",
-    "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf",
-    "ENGR421/Obsidian Notes/Week 2/non-Parametric Methods.md",
-    "MyCode/LinearRegression.ipynb",
-    "MyCode",
-    "SampleCode",
-    "New folder",
-    "ENGR421/lab/LinearRegression.ipynb",
-    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
-    "ENGR421/Obsidian Notes/Lecture Notes.md",
-    "ENGR421/Obsidian Notes/Week 1/Regression.md",
-    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
-    "Loss Function.md",
-    "MSE.md",
-    "ENGR421/Obsidian Notes/Week 1/Association.md",
-    "ENGR421/Obsidian Notes/Week 5/Multi-Layer Perceptron.md",
-    "ENGR421/Obsidian Notes/Week 2/MLE.md",
-    "ENGR421/Obsidian Notes/Week 2/MAP.md",
-    "ENGR421/Obsidian Notes/Week 2/likelihood.md",
-    "ENGR421/Obsidian Notes/Week 2/Density Estimation.md",
-    "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
-    "ENGR421/Obsidian Notes/Week 1/Linear Regreesion.md",
-    "Pasted image 20231115120013.png",
     "images/Pasted image 20231114133231.png",
     "images/Pasted image 20231114142834.png",
     "images/Pasted image 20231114142207.png",
     "images/Pasted image 20231114140738.png",
     "images/Pasted image 20231114140609.png",
     "images/Pasted image 20231113213936.png",
-    "images/Pasted image 20231112170349.png",
-    "images/Pasted image 20231113213927.png",
-    "images/Pasted image 20231113213657.png"
+    "images/Pasted image 20231112170349.png"
   ]
 }

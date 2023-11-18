@@ -1,10 +1,11 @@
-### Maximum Likelihood Estimation (MLE)
-MLE is a special case of density estimation where we aim to find the parameters $\theta$ that maximize the [[likelihood]] function $L(\theta)$. The likelihood function represents the likelihood of the observed data $X$ given the parameters $\theta$.
+## Maximum Likelihood Estimation (MLE)
+MLE is a special case of density estimation where we aim to find the parameters $\theta$ that maximize the [[likelihood]] function $l(\theta)$. The likelihood function represents the likelihood of the observed data $X$ given the parameters $\theta$.
 
-$$L(\theta)=p(X|\theta)$$
+$$l(\theta)=p(X|\theta)=\prod_{i=0}^{N}{p(x_i|\theta)}$$
 
 MLE estimates $\theta$ by maximizing this function, i.e., we find the value of $\theta$ that makes the observed data most probable.
 
+### Gaussian Distribution
 #### How to find $\mu$ and $\sigma^2$? 
 **Note:** The derivations here come from setting the derivative of the likelihood to zero, aka, finding the $\theta$ that maximizes likelihood.
 $$

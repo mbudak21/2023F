@@ -11,6 +11,8 @@
 
 #### Key Attribute
 An attribute for which each entity in the entity set must have a unique value. An entity may have multiple keys, each underlined in the diagram, this is not the case in the [[Relational Model]], in which only one primary key is underlined.
+
+Key is a minimal Superkey.
 ### Relationships
 Relates two or more distinct entities with a specific meaning. Relationships may also have attributes.
 * Cardinality must be shown in relationships.
