@@ -4,90 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a0f83f4b7fdbb2",
+        "id": "433160d22f405b42",
         "type": "tabs",
         "children": [
           {
-            "id": "761e8cef94793c36",
+            "id": "5c05c5ed02844e32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Obsidian Notes/!Table Of Contents.md",
+                "file": "COMP301/Lectures/Week 3/6. Inductive Sets of Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4bfe4b25318c647",
+            "id": "453fbfa43f1aedb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3ddc7f3b2b96a4a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/Obsidian Notes/Week 3/Lecture 05 - Multivariate Methods.pdf"
-              }
-            }
-          },
-          {
-            "id": "54a00717ecf17170",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/Obsidian Notes/Week 3/Lecture 06 - Linear Discrimination.pdf"
-              }
-            }
-          },
-          {
-            "id": "8cfe0d9762863c22",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/Obsidian Notes/Week 4/Lecture 07 - Linear Discrimination.pdf"
-              }
-            }
-          },
-          {
-            "id": "fe5d9268e1375293",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/Obsidian Notes/Week 4/Lecture 08 - Linear Discrimination.pdf"
-              }
-            }
-          },
-          {
-            "id": "bd2ee7d24c355c51",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf"
-              }
-            }
-          },
-          {
-            "id": "886c0618b6c0af88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
+                "file": "COMP301/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,6 +33,43 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e095fa15d1b636ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a55de915b916216",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP301/Lectures/Week 3/lecture 05 - Lists and recursion.pdf"
+              }
+            }
+          },
+          {
+            "id": "372a374ecdc3e123",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP301/Lectures/Week 3/lecture 06 - Inductive Sets of Data.pdf"
+              }
+            }
+          },
+          {
+            "id": "a03360a116260a4a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md",
+                "file": "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md",
+                "file": "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR421/Obsidian Notes/Week 2/MLE.md"
+                "file": "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf"
               }
             }
           }
@@ -221,53 +196,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4bfe4b25318c647",
+  "active": "a03360a116260a4a",
   "lastOpenFiles": [
-    "ENGR421/(Adaptive Computation and Machine Learning) Ethem Alpaydin - Introduction to Machine Learning -The MIT Press (2004).pdf",
-    "ENGR421/Obsidian Notes/!Table Of Contents.md",
-    "ENGR421/Obsidian Notes/Parametric Regression.md",
-    "ENGR421/Obsidian Notes/Lecture Notes.md",
+    "COMP301/Lectures/Week 3/6. Inductive Sets of Data.md",
+    "Pasted image 20231120225418.png",
+    "Pasted image 20231120225133.png",
+    "images/Pasted image 20231120223926.png",
+    "COMP301/Lectures/Week 3/lecture 06 - Inductive Sets of Data.pdf",
+    "COMP301/Lecture Notes.md",
+    "COMP301/Lectures/Week 3/lecture 05 - Lists and recursion.pdf",
+    "COMP301/Lectures/Week 3/5. Higher Order Procedures.md",
+    "COMP301/Lectures/Week 2/4. Structures and Patterns in Functional Programming.md",
+    "COMP301/Lectures/Week 2/3. Functional Programming & Scheme.md",
+    "COMP301/Lectures/Week 1/2. Functional Programming & Scheme.md",
+    "COMP301/Lectures/Week 1/1. Introduction.md",
+    "COMP301/Structure and Interpretation of Computer Programs, 2nd ed. (Harold Abelson, Gerald Jay Sussman etc.) (Z-Library).pdf",
+    "COMP301/Lectures/Week 6/lecture 12 -- Let Implementation.pdf",
+    "COMP301/Lectures/Week 6/lecture 11 -- Let -- Behavior Specification.pdf",
+    "COMP301/Lectures/Week 5/lecture 10 -- Syntax Representation & Interpreters.pdf",
+    "COMP301/Lectures/Week 5/lecture 09 -- Interfaces & Representation(1).pdf",
+    "COMP301/Lectures/Week 4/lecture 08 -- Interfaces & Representation.pdf",
+    "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf",
+    "COMP301/Lectures/Week 2/Lecture 04 -- Structures and Patterns in Functional Programming.pdf",
+    "HIST300/DP.md",
+    "HIST300/1945-1950 11.6.2023.md",
+    "ENGR421/Bayesian Decision Theory.md",
+    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
+    "ENGR421/Obsidian Notes/Week 2/likelihood.md",
     "ENGR421/Obsidian Notes/ENGR Midterm 1 Prep Sheet.md",
-    "ENGR421/Obsidian Notes/Week 2/Lecture 04 - Parametric Methods.pdf",
-    "ENGR421/Obsidian Notes/Week 2/Lecture 03 - Parametric Methods.pdf",
+    "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
+    "ENGR421/Obsidian Notes/Week 2/non-Parametric Methods.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
-    "ENGR421/Obsidian Notes/Week 5/Lecture 09 - Multilayer Perceptrons.pdf",
-    "ENGR421/Obsidian Notes/Week 4/Lecture 08 - Linear Discrimination.pdf",
-    "ENGR421/Obsidian Notes/Week 4/Lecture 07 - Linear Discrimination.pdf",
-    "ENGR421/Obsidian Notes/Week 3/Lecture 06 - Linear Discrimination.pdf",
-    "ENGR421/Obsidian Notes/Week 3/Lecture 05 - Multivariate Methods.pdf",
-    "ENGR421/Obsidian Notes/Week 1/Lecture 02 - Supervised Learning.pdf",
-    "ENGR421/Obsidian Notes/Week 2/MLE.md",
-    "ENGR421/Obsidian Notes/Week 1/ENGR421 Introduction.md",
-    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
-    "COMP306/Midterm 1 Prep Sheet.md",
-    "COMP306/Week 3/03-Relational-Model.pdf",
-    "COMP306/!Table Of Contents.md",
-    "COMP306/Week 3/Relational Model.md",
-    "COMP306/Week 2/ER Model.md",
-    "COMP306/Week 2/Attributes.md",
-    "COMP306/Week 2/Entities.md",
-    "COMP306/ps/psweek4 answers.md",
-    "COMP306/Week 7/07-Advanced SQL.pdf",
-    "COMP306/Week 7/Advanced SQL.md",
+    "ENGR421/Obsidian Notes/!Table Of Contents.md",
     "COMP306/Week 6/SQL.md",
-    "ENGR421/Score function.md",
+    "COMP306/Week 7/Advanced SQL.md",
+    "COMP306/Midterm 1 Prep Sheet.md",
+    "COMP306/!Table Of Contents.md",
+    "2023-11-20.md",
+    "COMP306/HW1.md",
+    "ENGR421/Obsidian Notes/Week 2/MLE.md",
+    "ENGR421/Obsidian Notes/Parametric Regression.md",
     "images/WhatsApp Image 2023-11-17 at 22.55.43.jpeg",
     "images/Pasted image 20231115120013.png",
-    "COMP306/HW1.md",
     "images/WhatsApp Image 2023-11-17 at 22.55.43 1.jpeg",
-    "COMP306/Week 5/Relational Algebra.md",
-    "COMP306/Lecture Notes.md",
-    "HIST300/Introduction.md",
-    "HIST300/Reforms.md",
-    "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
-    "ENGR421/Obsidian Notes/Week 1/Classification.md",
     "images/Pasted image 20231114133231.png",
     "images/Pasted image 20231114142834.png",
     "images/Pasted image 20231114142207.png",
-    "images/Pasted image 20231114140738.png",
-    "images/Pasted image 20231114140609.png",
-    "images/Pasted image 20231113213936.png",
-    "images/Pasted image 20231112170349.png"
+    "images/Pasted image 20231114140738.png"
   ]
 }

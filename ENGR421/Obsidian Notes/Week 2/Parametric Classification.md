@@ -1,4 +1,13 @@
 
+Parametric classification uses a parametric function in the bayesian estimator to find proper class probabilities: $Pr(y=c|x)$. The score function, $g_c(x)$ is usually chosen to be the Logarithm of the $Pr(y=c|x)$ without the evidence in the denominator, $P(x)$. 
+
+## Parametric vs non-Parametric classification
+The main difference lies in the $P(x|y=c)$ function, in parametric classification we use parametric methods (we assume a distribution), whereas in the non-parametric classification we use non-parametric methods such as KNN, Parzen Windows, and so on. 
+
+Related: [[non-Parametric Classification]], [[non-Parametric Methods]]
+
+
+
 ![[Pasted image 20231107223759.png]]  
 
 $g_c:$ [[Score function]] for class $c$
@@ -6,15 +15,6 @@ $g_c:$ [[Score function]] for class $c$
 $$
 g_c(x)=log.Pr(y=c|x)
 $$
-Bayes Theorem:
-$$
-Pr(y=c|x) = \frac{p(x|y=c)Pr(y=c)}{p(x)}
-$$
-
-In here:
-$p(x|y=c):$ Is the pdf of class $c$. Assuming class $c$ is the correct one, what is the probability of point $x$ being on class $c$?
-$Pr(y=c):$ Prior of class $c$, frequency of class $c$
-$p(x):$ A normalizing constant which is not needed for the scoring functions. The evidence $p(x)$ is the probability of observing the data $x$ under all possible hypotheses weighted by their probabilities. So: $\sum_{c=1}^{K}{p(x|y=c)Pr(y=c)}$
 
 
 

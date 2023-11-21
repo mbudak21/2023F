@@ -2,18 +2,6 @@
 
 ---
 ---
-# Lecture 01
-General introduction and details about the syllabus
-## Learning Outcomes
-Fluency in core programming concepts including data representation, procedural representation, grammars, environment models, parsing, evaluation, paramter passing, continuation passing.
-
-Page 19 includes interesting topics about the whole course.
-
-1. **Imperative:** Program state is changed via commands.
-2. **Procedural:** An extension of imperative, where code is organized into procedures or functions.
-3. **Functional:** Computation based on the evaluation of mathematical functions, avoiding state and mutable data.
-4. **Object-oriented:** Datafields are treated as objects, manipulated through predefined methods.
-5. **Declarative:** Focuses on what needs to be done rather than how to do it.
 
 -----
 # Lecture 02 - Functional Programming & Scheme
@@ -24,8 +12,8 @@ Esoteric?:
 These elements are fundamentals in the structure and operation of any programming language.
 
 - **Primitives:** Basic elements that the language provides. Strings, booleans, integers etc.
-    - **Self-evaluating primitives**: Their value is the object itself.
-    - **Booleans**: Represented with the symbols #t (true) and #f (false).
+    - **Self-evaluating primitives**: Their value is the object itself. Booleans, strings, numbers.
+    - **Built-in procedures:** + , - , * , >, =, string=?, string-lenght
 - **Means of Combination:** How different elements can be combined. Ex: (+ 2 3)
 - **Means of Abstraction:** The ability to hide details and show only the essential features. (define score 23)
 
@@ -35,7 +23,20 @@ These elements are fundamentals in the structure and operation of any programmin
 - **Special form**: These are syntactic constructs that have a unique evaluation mechanism. For example, `if`, `define`, and `lambda` are special forms in Scheme.
 - **Combination**: A combination is a list where the first element is an operator, and the remaining elements are operands. The interpreter evaluates all sub-expressions of the combination and then applies the operator to the values of the operands.
 
-Question: Do interpreters evaluate nested primitive statements in bottom-up or top-down fashion?
+**Question:** Do interpreters evaluate nested primitive statements in bottom-up or top-down fashion?
+
+### Rules For Evaluation
+1. If **self-evaluating**, return value.
+2. If a **name**, return value associated with name in environment.
+3. If a **special form**, do something special.
+4. If a **combination**, then
+	a.  Evaluate all of the subexpressions of the combination (in any order)
+	b. apply the operator to the values of the operands (arguments) and return the result
+
+### Rules For Application
+1. If procedure is **primitive procedure**, just do it.
+2. If procedure is a **compound procedure**, then: 
+	Evaluate the body of the procedure with each formal parameter replaced by the corresponding actual argument value.
 
 
 ## Read-Eval-Print Loop (REPL)
@@ -83,6 +84,13 @@ Returns a pair ``<P>`` whoose:
 	car: `<x>`, cdr:`<y>`
 Basically a linked list whose end is indicated with an empty list.
 
+**Constructor:** `(cons <x> <y>) ==> <P>
+**Accessors:** `car, cdr`
+**Predicate:** `pair? -> boolean`
+
+- Consing up - to build the list
+- Cdring down  - to process the elements of the list
+
 #### Question:
 What are the internal workings of this structure? Does cons return a pointer that points to the first element and its pointer which points to the second element?
 #### Answer by ChatGPT:
@@ -120,8 +128,42 @@ Transform lists by selectively choosing each element according to the procedure.
 `(filter proc lst) -> <List>'` `(proc x) -> #t or #f`
 
 ### Reduce
-Transforms lists by 
+Transforms lists by using a procedure to iteratively process each element of the list.
 `(reduce proc init lst) -> <Value>`
+`(proc accumulated element) -> new_accumulated`
+
+- **proc**: A function that takes two arguments (the current accumulated value and the current element of the list) and returns a new accumulated value.
+- **init**: The initial value for the accumulation, setting the starting point.
+- **lst**: The list to be processed, where each element is passed along with the accumulated value to the procedure.
+
+This process continues until the list is exhausted, resulting in a single, final accumulated value.
+
+**Example:**
+```scheme
+(reduce + 0 '(1 2 3 4 5)) ==> 15
+```
+
+
+# Lecture 07 - Inductive Sets of Data
+
+## Inductive specification example
+$N = [0, 1, 2, ...]$
+**Definition 1.1.1:** A natural number $n$ is in $S$ if and only if
+1. $n=0$, or
+2. $n-3 \in S.$
+
+### Procedure
+```scheme
+(define in-S? 
+	(lambda (n)
+		(if zero? n) #t
+		(if (>= (- n 3) 0)
+			(in-S? (- n 3))
+			#f)
+		)
+	)
+)
+```
 
 # Lecture 08 - Interfaces & Representation
 Interface vs Implementation
