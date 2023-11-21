@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e095fa15d1b636ef",
@@ -69,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf",
+                "file": "COMP301/Lectures/Week 3/6. Inductive Sets of Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf",
+                "file": "COMP301/Lectures/Week 3/6. Inductive Sets of Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf"
+                "file": "COMP301/Lectures/Week 3/6. Inductive Sets of Data.md"
               }
             }
           }
@@ -196,13 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a03360a116260a4a",
+  "active": "5c05c5ed02844e32",
   "lastOpenFiles": [
+    "Pasted image 20231121134446.png",
+    "Pasted image 20231121134306.png",
+    "Untitled.md",
     "COMP301/Lectures/Week 3/6. Inductive Sets of Data.md",
+    "Pasted image 20231121122749.png",
+    "Pasted image 20231121122747.png",
+    "COMP301/Lectures/Week 3/lecture 06 - Inductive Sets of Data.pdf",
+    "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf",
     "Pasted image 20231120225418.png",
     "Pasted image 20231120225133.png",
     "images/Pasted image 20231120223926.png",
-    "COMP301/Lectures/Week 3/lecture 06 - Inductive Sets of Data.pdf",
     "COMP301/Lecture Notes.md",
     "COMP301/Lectures/Week 3/lecture 05 - Lists and recursion.pdf",
     "COMP301/Lectures/Week 3/5. Higher Order Procedures.md",
@@ -216,7 +221,6 @@
     "COMP301/Lectures/Week 5/lecture 10 -- Syntax Representation & Interpreters.pdf",
     "COMP301/Lectures/Week 5/lecture 09 -- Interfaces & Representation(1).pdf",
     "COMP301/Lectures/Week 4/lecture 08 -- Interfaces & Representation.pdf",
-    "COMP301/Lectures/Week 4/lecture 07 -- Recursive Procedures(1).pdf",
     "COMP301/Lectures/Week 2/Lecture 04 -- Structures and Patterns in Functional Programming.pdf",
     "HIST300/DP.md",
     "HIST300/1945-1950 11.6.2023.md",
@@ -235,13 +239,9 @@
     "2023-11-20.md",
     "COMP306/HW1.md",
     "ENGR421/Obsidian Notes/Week 2/MLE.md",
-    "ENGR421/Obsidian Notes/Parametric Regression.md",
     "images/WhatsApp Image 2023-11-17 at 22.55.43.jpeg",
     "images/Pasted image 20231115120013.png",
     "images/WhatsApp Image 2023-11-17 at 22.55.43 1.jpeg",
-    "images/Pasted image 20231114133231.png",
-    "images/Pasted image 20231114142834.png",
-    "images/Pasted image 20231114142207.png",
-    "images/Pasted image 20231114140738.png"
+    "images/Pasted image 20231114133231.png"
   ]
 }
