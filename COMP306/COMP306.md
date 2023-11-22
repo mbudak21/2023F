@@ -1,3 +1,4 @@
+# Table Of Contents
 ## Lectures
 1. [[01-Introduction.pdf]]
 2. [[ER Model]]

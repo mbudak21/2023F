@@ -1,3 +1,4 @@
+# Table Of Contents
 **TODO:** Split lecture notes into the weeks
 
 1.  [[ENGR421 Introduction]]
