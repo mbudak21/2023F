@@ -24,6 +24,9 @@
 	[[KNN]]
 ----
 6. [[Multivariate Methods]]
-7. [[Linear Discrimination]]
-8. [[Multilayer Perceptrons]]
+---
+8. [[Linear Discrimination]]
+----
+10. [[Multilayer Perceptrons]]
+----
 - [ ] [[ENGR Midterm 1 Prep Sheet]]

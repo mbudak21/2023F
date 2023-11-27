@@ -4,76 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "433160d22f405b42",
+        "id": "f16250a697e0a76d",
         "type": "tabs",
-        "dimension": 53.40375586854461,
         "children": [
           {
-            "id": "c3b2018d4afbda08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lectures/8. Interfaces & Representation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5555c92b525848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lectures/9. Representation Strategies for Data Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194a4fe718ccc7c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lectures/10. Abstract Syntax, Representation, Interpretation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "e095fa15d1b636ef",
-        "type": "tabs",
-        "dimension": 46.59624413145539,
-        "children": [
-          {
-            "id": "ba99a9bf647c1345",
+            "id": "a383fff6556c9cc8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP301/Lectures/Slides/lecture 08 -- Interfaces & Representation.pdf"
+                "file": "COMP301/Lectures/Slides/lecture 07 -- Recursive Procedures(1).pdf"
               }
             }
           },
           {
-            "id": "d22f9ca5bb8493ca",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP301/Lectures/Slides/lecture 09 -- Interfaces & Representation(1).pdf"
-              }
-            }
-          },
-          {
-            "id": "1d50bb76f7cb69dd",
+            "id": "49439a3b59958559",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -83,7 +28,7 @@
             }
           },
           {
-            "id": "c28b4da82481b33b",
+            "id": "2696270f6a36c2fe",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -91,29 +36,9 @@
                 "file": "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf"
               }
             }
-          },
-          {
-            "id": "4d8d44d8dd688f33",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf"
-              }
-            }
-          },
-          {
-            "id": "8cce7d52ff26822e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 411.5
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -241,53 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d50bb76f7cb69dd",
+  "active": "49439a3b59958559",
   "lastOpenFiles": [
-    "COMP301/Lectures/Slides/lecture 09 -- Interfaces & Representation(1).pdf",
-    "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf",
-    "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf",
     "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf",
-    "COMP301/Lectures/10. Abstract Syntax, Representation, Interpretation.md",
-    "COMP301/Lectures/9. Representation Strategies for Data Types.md",
-    "COMP301/Lectures/11..md",
-    "COMP301/Lectures/14..md",
-    "COMP301/Lectures/13..md",
-    "COMP301/Lectures/12..md",
-    "images/Pasted image 20231122123725.png",
-    "images/Pasted image 20231122124345.png",
     "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf",
-    "COMP301/Lectures/8. Interfaces & Representation.md",
+    "COMP301/Lectures/Slides/lecture 09 -- Interfaces & Representation(1).pdf",
     "COMP301/Lectures/Slides/lecture 08 -- Interfaces & Representation.pdf",
-    "COMP301/ps/ps5.md",
-    "COMP301/ps/78940_mbudak21_ps1.pdf",
-    "COMP301/Lectures/5. Higher Order Procedures.md",
-    "COMP301/Lectures/7. Recursive & Auxiliary Procedures.md",
-    "COMP301/Lectures/6. Inductive Sets of Data.md",
-    "COMP301/Lectures/4. Structures and Patterns in Functional Programming.md",
-    "COMP306/Week 2/ER Model.md",
-    "COMP306/COMP306.md",
-    "COMP306/Week 4/Conversion Algorithm.md",
-    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
-    "ENGR421/Score function.md",
-    "ENGR421/Obsidian Notes/ENGR Midterm 1 Prep Sheet.md",
-    "ENGR421/Obsidian Notes/Lecture Notes.md",
-    "sylabuses/COMP301.pdf",
-    "ENGR421/Obsidian Notes/Week 1/Lecture 01 - Introduction.pdf",
-    "Table Of Contents.md",
-    "COMP301/Lectures/1. Introduction.md",
     "COMP301/Lectures/Slides/lecture 07 -- Recursive Procedures(1).pdf",
-    "COMP301/Lectures/Slides/lecture 06 - Inductive Sets of Data.pdf",
-    "COMP301/Lectures/3. Functional Programming & Scheme.md",
-    "COMP301/COMP301.md",
-    "COMP301/Lectures/Week 2/4. Structures and Patterns in Functional Programming.md",
-    "COMP301/Lectures/Week 2/3. Functional Programming & Scheme.md",
-    "images/Pasted image 20231121163930.png",
-    "images/Pasted image 20231121192950.png",
-    "images/Pasted image 20231121180634.png",
-    "images/Pasted image 20231121134446.png",
-    "images/Pasted image 20231121134306.png",
-    "images/Pasted image 20231121122749.png",
-    "images/Pasted image 20231121122747.png",
-    "images/Pasted image 20231120225418.png"
+    "COMP301/Lectures/6. Inductive Sets of Data.md",
+    "COMP301/Lectures/10. Abstract Syntax, Representation, Interpretation.md",
+    "Cheat Sheet.md",
+    "COMP301/Project2MYLET/Solution.md",
+    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009378591700937859117",
+    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009378591700937859110",
+    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766377",
+    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766371",
+    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766151",
+    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766139",
+    "COMP301/Lectures/11. Let Behavior Specification.md",
+    "ENGR421/Obsidian Notes/Week 2/MLE.md",
+    "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
+    "Multivariate Methods.md",
+    "ENGR421/ENGR421.md",
+    "ENGR421/Obsidian Notes/Parametric Regression.md",
+    "ENGR421/Obsidian Notes/Week 2/MAP.md",
+    "ENGR421/Obsidian Notes/Week 2/likelihood.md",
+    "ENGR421/Obsidian Notes/Week 2/Density Estimation.md",
+    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
+    "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
+    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
+    "Table Of Contents.md",
+    "images/Pasted image 20231124234650.png",
+    "images/Pasted image 20231125104906.png",
+    "Transpose of matrix.md",
+    "Multilayer Perceptrons.md",
+    "images/Pasted image 20231125104858.png",
+    "ENGR421/Obsidian Notes/ENGR Midterm 1 Prep Sheet.md",
+    "images/Pasted image 20231124235114.png",
+    "images/Pasted image 20231124235109.png",
+    "Inverse of a matrix.md",
+    "COMP301/Lectures/8. Interfaces & Representation.md",
+    "COMP301/Lectures/9. Representation Strategies for Data Types.md",
+    "ENGR421/Obsidian Notes/Lecture Notes.md",
+    "images/Pasted image 20231123135302.png",
+    "images/Pasted image 20231123135212.png",
+    "images/Pasted image 20231123135050.png",
+    "images/Pasted image 20231123135014.png",
+    "images/Pasted image 20231123135002.png",
+    "COMP301/COMP301.md"
   ]
 }
