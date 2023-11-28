@@ -6,29 +6,66 @@
       {
         "id": "f16250a697e0a76d",
         "type": "tabs",
+        "dimension": 43.78140703517588,
         "children": [
           {
-            "id": "a383fff6556c9cc8",
+            "id": "21e12e49856c5534",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "COMP301/Lectures/Slides/lecture 07 -- Recursive Procedures(1).pdf"
+                "file": "COMP301/Lectures/11. LET Behavior Specification.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "49439a3b59958559",
+            "id": "13cde7e198757789",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf"
+                "file": "COMP301/Lectures/12. LET Implementation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "2696270f6a36c2fe",
+            "id": "d089794b76f73745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP301/Lectures/13. PROC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed852c525d5dd21e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP301/Lectures/14. PROC 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "eb8daf998b19a426",
+        "type": "tabs",
+        "dimension": 56.21859296482412,
+        "children": [
+          {
+            "id": "6ab41430987ec033",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -36,9 +73,39 @@
                 "file": "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf"
               }
             }
+          },
+          {
+            "id": "0559459793335439",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf"
+              }
+            }
+          },
+          {
+            "id": "834733e0e812a835",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf"
+              }
+            }
+          },
+          {
+            "id": "441cb7836814485d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP301/Lectures/Slides/lecture 14 -- Proc.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -104,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf",
+                "file": "COMP301/Lectures/14. PROC 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf",
+                "file": "COMP301/Lectures/14. PROC 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf"
+                "file": "COMP301/Lectures/14. PROC 2.md"
               }
             }
           }
@@ -166,9 +234,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49439a3b59958559",
+  "active": "ed852c525d5dd21e",
   "lastOpenFiles": [
+    "COMP301/Lectures/Slides/lecture 14 -- Proc.pdf",
+    "COMP301/Lectures/14. PROC 2.md",
+    "COMP301/Lectures/13. PROC.md",
+    "Pasted image 20231128174155.png",
+    "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf",
+    "COMP301/Lectures/11. LET Behavior Specification.md",
+    "COMP301/Lectures/12. LET Implementation.md",
+    "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf",
+    "Pasted image 20231128163601.png",
+    "Pasted image 20231128163240.png",
     "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf",
+    "COMP301/Lectures/8. Interfaces & Representation.md",
     "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf",
     "COMP301/Lectures/Slides/lecture 09 -- Interfaces & Representation(1).pdf",
     "COMP301/Lectures/Slides/lecture 08 -- Interfaces & Representation.pdf",
@@ -179,11 +258,6 @@
     "COMP301/Project2MYLET/Solution.md",
     "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009378591700937859117",
     "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009378591700937859110",
-    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766377",
-    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766371",
-    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766151",
-    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009377661700937766139",
-    "COMP301/Lectures/11. Let Behavior Specification.md",
     "ENGR421/Obsidian Notes/Week 2/MLE.md",
     "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
     "Multivariate Methods.md",
@@ -205,14 +279,7 @@
     "images/Pasted image 20231124235114.png",
     "images/Pasted image 20231124235109.png",
     "Inverse of a matrix.md",
-    "COMP301/Lectures/8. Interfaces & Representation.md",
-    "COMP301/Lectures/9. Representation Strategies for Data Types.md",
-    "ENGR421/Obsidian Notes/Lecture Notes.md",
     "images/Pasted image 20231123135302.png",
-    "images/Pasted image 20231123135212.png",
-    "images/Pasted image 20231123135050.png",
-    "images/Pasted image 20231123135014.png",
-    "images/Pasted image 20231123135002.png",
-    "COMP301/COMP301.md"
+    "images/Pasted image 20231123135212.png"
   ]
 }

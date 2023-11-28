@@ -9,10 +9,10 @@
 [[8. Interfaces & Representation]]
 [[9. Representation Strategies for Data Types]]
 [[10. Abstract Syntax, Representation, Interpretation]]
-[[11. Let Behavior Specification]]
-[[12.]]
-[[13.]]
-[[14.]]
+[[11. LET Behavior Specification]]
+[[12. LET Implementation]]
+[[13. PROC]]
+[[14. PROC 2]]
 - [ ] **Midterm**
 
 
