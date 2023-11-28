@@ -4,108 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f16250a697e0a76d",
+        "id": "096dfcf72923f345",
         "type": "tabs",
-        "dimension": 43.78140703517588,
         "children": [
           {
-            "id": "21e12e49856c5534",
+            "id": "32d05e7fc260ff31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lectures/11. LET Behavior Specification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13cde7e198757789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lectures/12. LET Implementation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d089794b76f73745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lectures/13. PROC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed852c525d5dd21e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP301/Lectures/14. PROC 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "eb8daf998b19a426",
-        "type": "tabs",
-        "dimension": 56.21859296482412,
-        "children": [
-          {
-            "id": "6ab41430987ec033",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf"
-              }
-            }
-          },
-          {
-            "id": "0559459793335439",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf"
-              }
-            }
-          },
-          {
-            "id": "834733e0e812a835",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf"
-              }
-            }
-          },
-          {
-            "id": "441cb7836814485d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP301/Lectures/Slides/lecture 14 -- Proc.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 411.5
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -172,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP301/Lectures/14. PROC 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP301/Lectures/14. PROC 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMP301/Lectures/14. PROC 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -234,19 +139,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed852c525d5dd21e",
+  "active": "32d05e7fc260ff31",
   "lastOpenFiles": [
-    "COMP301/Lectures/Slides/lecture 14 -- Proc.pdf",
-    "COMP301/Lectures/14. PROC 2.md",
-    "COMP301/Lectures/13. PROC.md",
-    "Pasted image 20231128174155.png",
+    "images/Pasted image 20231128174155.png",
+    "images/Pasted image 20231128163601.png",
+    "images/Pasted image 20231128163240.png",
+    "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf",
+    "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf",
     "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf",
+    "COMP301/Lectures/Slides/lecture 14 -- Proc.pdf",
     "COMP301/Lectures/11. LET Behavior Specification.md",
     "COMP301/Lectures/12. LET Implementation.md",
-    "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf",
-    "Pasted image 20231128163601.png",
-    "Pasted image 20231128163240.png",
-    "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf",
+    "COMP301/Lectures/13. PROC.md",
+    "COMP301/Lectures/14. PROC 2.md",
     "COMP301/Lectures/8. Interfaces & Representation.md",
     "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf",
     "COMP301/Lectures/Slides/lecture 09 -- Interfaces & Representation(1).pdf",
