@@ -11,11 +11,28 @@
             "id": "32d05e7fc260ff31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ENGR421/ENGR421.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4a8397d78798cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR421/In Class Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ENGR421/In Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ENGR421/In Class Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ENGR421/In Class Notes.md"
+              }
             }
           }
         ]
@@ -139,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d05e7fc260ff31",
+  "active": "e4a8397d78798cf2",
   "lastOpenFiles": [
+    "Multivariate Methods.md",
+    "ENGR421/In Class Notes.md",
+    "ENGR421/ENGR421.md",
     "images/Pasted image 20231128174155.png",
     "images/Pasted image 20231128163601.png",
     "images/Pasted image 20231128163240.png",
@@ -165,8 +189,6 @@
     "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009378591700937859110",
     "ENGR421/Obsidian Notes/Week 2/MLE.md",
     "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
-    "Multivariate Methods.md",
-    "ENGR421/ENGR421.md",
     "ENGR421/Obsidian Notes/Parametric Regression.md",
     "ENGR421/Obsidian Notes/Week 2/MAP.md",
     "ENGR421/Obsidian Notes/Week 2/likelihood.md",
