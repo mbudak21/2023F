@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "096dfcf72923f345",
+        "id": "83d35259b50aa348",
         "type": "tabs",
         "children": [
           {
-            "id": "32d05e7fc260ff31",
+            "id": "52f4de54d4ab90e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR421/ENGR421.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4a8397d78798cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR421/In Class Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR421/In Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGR421/In Class Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ENGR421/In Class Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,53 +139,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4a8397d78798cf2",
+  "active": "552e2a9387d7f861",
   "lastOpenFiles": [
-    "Multivariate Methods.md",
+    "COMP301/Lectures/Slides/Lecture 17 -- State - Effects.pdf",
+    "COMP301/Lectures/Slides/Lecture 16 -- Scoping, Binding, Lexical Addressing.pdf",
+    "COMP301/Lectures/17. Nameless LET.md",
+    "COMP301/Lectures/16. Scoping, Binding, Lexical Addressing.md",
+    "COMP301/Lectures/Slides/Lecture 15 -- LETREC.pdf",
+    "COMP301/Lectures/15. LETREC.md",
+    "COMP301/Lectures/14. PROC 2.md",
+    "Pasted image 20231204135204.png",
+    "Pasted image 20231204135005.png",
+    "Pasted image 20231204134947.png",
+    "COMP301/Lectures/Slides/lecture 14 -- Proc.pdf",
+    "COMP301/Lectures/13. PROC.md",
+    "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf",
+    "Untitled 1.md",
+    "COMP301/ps/PS7-PROC/interp.rkt-autorec.interp",
+    "COMP301/ps/PS7-PROC/interp.1",
+    "COMP301/ps/PS7-PROC/interp.2",
+    "COMP301/ps/PS7-PROC/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17012646011701264601558",
+    "COMP301/ps/PS7-PROC/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17012646011701264601552",
+    "COMP301/Lectures/12. LET Implementation.md",
+    "COMP301/COMP301.md",
+    "Table Of Contents.md",
+    "Cheat Sheet.md",
+    "HIST300/Module II.md",
     "ENGR421/In Class Notes.md",
+    "Multivariate Methods.md",
     "ENGR421/ENGR421.md",
     "images/Pasted image 20231128174155.png",
     "images/Pasted image 20231128163601.png",
     "images/Pasted image 20231128163240.png",
-    "COMP301/Lectures/Slides/lecture 11 -- Let -- Behavior Specification.pdf",
-    "COMP301/Lectures/Slides/lecture 12 -- Let Implementation.pdf",
-    "COMP301/Lectures/Slides/lecture 13 -- Proc.pdf",
-    "COMP301/Lectures/Slides/lecture 14 -- Proc.pdf",
     "COMP301/Lectures/11. LET Behavior Specification.md",
-    "COMP301/Lectures/12. LET Implementation.md",
-    "COMP301/Lectures/13. PROC.md",
-    "COMP301/Lectures/14. PROC 2.md",
     "COMP301/Lectures/8. Interfaces & Representation.md",
-    "COMP301/Lectures/Slides/lecture 10 -- Syntax Representation & Interpreters.pdf",
-    "COMP301/Lectures/Slides/lecture 09 -- Interfaces & Representation(1).pdf",
-    "COMP301/Lectures/Slides/lecture 08 -- Interfaces & Representation.pdf",
-    "COMP301/Lectures/Slides/lecture 07 -- Recursive Procedures(1).pdf",
     "COMP301/Lectures/6. Inductive Sets of Data.md",
     "COMP301/Lectures/10. Abstract Syntax, Representation, Interpretation.md",
-    "Cheat Sheet.md",
     "COMP301/Project2MYLET/Solution.md",
-    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009378591700937859117",
-    "COMP301/Project2MYLET/compiled/drracket/errortrace/COLLECTS-racket-file.rkt-586-20_17009378591700937859110",
     "ENGR421/Obsidian Notes/Week 2/MLE.md",
     "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
     "ENGR421/Obsidian Notes/Parametric Regression.md",
     "ENGR421/Obsidian Notes/Week 2/MAP.md",
     "ENGR421/Obsidian Notes/Week 2/likelihood.md",
     "ENGR421/Obsidian Notes/Week 2/Density Estimation.md",
-    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
-    "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
-    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
-    "Table Of Contents.md",
     "images/Pasted image 20231124234650.png",
     "images/Pasted image 20231125104906.png",
-    "Transpose of matrix.md",
-    "Multilayer Perceptrons.md",
     "images/Pasted image 20231125104858.png",
-    "ENGR421/Obsidian Notes/ENGR Midterm 1 Prep Sheet.md",
-    "images/Pasted image 20231124235114.png",
-    "images/Pasted image 20231124235109.png",
-    "Inverse of a matrix.md",
-    "images/Pasted image 20231123135302.png",
-    "images/Pasted image 20231123135212.png"
+    "images/Pasted image 20231124235114.png"
   ]
 }
