@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "83d35259b50aa348",
+        "id": "60a689d5a2ef751d",
         "type": "tabs",
         "children": [
           {
-            "id": "52f4de54d4ab90e7",
+            "id": "7a9c3321384d2365",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP302/COMP302.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "9ead74b391e0f7e1",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP302/COMP302.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP302/COMP302.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMP302/COMP302.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +140,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52f4de54d4ab90e7",
+  "active": "7a9c3321384d2365",
   "lastOpenFiles": [
+    "COMP302/COMP302.md",
+    "COMP302/Lecture Notes.md",
+    "domain model.md",
+    "use case.md",
+    "Design Class Diagram.md",
+    "Pasted image 20231210192628.png",
+    "Interaction Diagram.md",
+    "Pasted image 20231210192511.png",
+    "Pasted image 20231210185837.png",
+    "Pasted image 20231210185818.png",
+    "UML.md",
+    "COMP302/UML-Class Diagram.md",
     "non-parametric Regression.md",
     "ENGR421/MyCode/LinearDiscrimination.ipynb",
     "ENGR421/HW3/test.ipynb",
@@ -182,18 +187,6 @@
     "images/Pasted image 20231128163240.png",
     "COMP301/Lectures/11. LET Behavior Specification.md",
     "COMP301/Lectures/8. Interfaces & Representation.md",
-    "COMP301/Lectures/6. Inductive Sets of Data.md",
-    "COMP301/Lectures/10. Abstract Syntax, Representation, Interpretation.md",
-    "COMP301/Project2MYLET/Solution.md",
-    "ENGR421/Obsidian Notes/Week 2/MLE.md",
-    "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
-    "ENGR421/Obsidian Notes/Parametric Regression.md",
-    "ENGR421/Obsidian Notes/Week 2/MAP.md",
-    "ENGR421/Obsidian Notes/Week 2/likelihood.md",
-    "ENGR421/Obsidian Notes/Week 2/Density Estimation.md",
-    "images/Pasted image 20231124234650.png",
-    "images/Pasted image 20231125104906.png",
-    "images/Pasted image 20231125104858.png",
-    "images/Pasted image 20231124235114.png"
+    "COMP301/Lectures/6. Inductive Sets of Data.md"
   ]
 }

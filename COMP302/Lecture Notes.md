@@ -14,7 +14,7 @@ Use cases help in understanding the functional requirements of the system by det
 ![[Pasted image 20231025230408.png]] Note that these `objects` are not software objects, there are just the visualizations of the concepts or the mental models of the real-world domain.
 
 #### 3. Define Interaction Diagrams 
-The following ***Sequence Diagram*** diagram shows the flow of messages between software objects, and thus the invocation of the methods.
+The following ***Sequence Diagram*** shows the flow of messages between software objects, and thus the invocation of the methods.
 ![[Pasted image 20231025230659.png]]
 
 #### 4. Define Design Class Diagram
@@ -54,8 +54,8 @@ Iterative implementation of the remaining lower risk and easier elements, and pr
 Beta tests, deployement.
 
 # Larman CH3-5 - Case Studies
-OOA/D: Object oriented analysis and design
-requirement bs
+
+
 
 
 # Larman CH9

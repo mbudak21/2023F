@@ -1,0 +1,1 @@
+Use cases help in understanding the functional requirements of the system by detailing how users interact with it.
