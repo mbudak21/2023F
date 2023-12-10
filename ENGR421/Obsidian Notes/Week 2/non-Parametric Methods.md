@@ -2,7 +2,7 @@
 Non-parametric methods in machine learning are techniques that do not make strong assumptions about the form of the mapping function from input variables to output variables. These methods are flexible and useful for analysis when the shape of the distribution is unknown.
 
 Related: [[Parametric Methods]]
-Examples: [[Kernel Methods]], [[Decision Trees]], K-Nearest Neighbors ([[KNN]])
+Examples: [[non-parametric Regression]] [[Kernel Methods]], [[Decision Trees]], K-Nearest Neighbors ([[KNN]])
 ## Flexibility
 Non-parametric methods are favored for their flexibility as they do not require a pre-specified model form. This allows them to adapt to the shape of the data, accommodating more complexity than many parametric models.
 ## Advantages
