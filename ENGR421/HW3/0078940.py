@@ -71,7 +71,10 @@ def running_mean_smoother(x_query, x_train, y_train, bin_width):
     y_hat = np.zeros(len(x_query))
 
     for point in range(len(x_query)):
-        y_hat[point] = np.mean(y_train[(x_train >= x_query[point] - bin_width/2) & (x_train < x_query[point] + bin_width/2)])
+        y_hat[point] = np.mean(
+            y_train[
+                (x_train >= x_query[point] - bin_width/2) & 
+                (x_train < x_query[point] + bin_width/2)])
 
     
     

@@ -29,4 +29,16 @@
 ----
 10. [[Multilayer Perceptrons]]
 ----
-- [ ] [[ENGR Midterm 1 Prep Sheet]]
+- [x] [[ENGR Midterm 1 Prep Sheet]]
+-----
+11. [[non-Parametric Methods]]
+----
+12. [[Decision Trees]]
+----
+13. [[Kernel Machines]]
+----
+14. [[Dimensionality Reduction]]
+-----
+- [ ] [[ENGR Midterm 2 Prep Sheet]]
+-----
+15. [[Clustering]] [[Lecture 22 - Clustering.pdf]]

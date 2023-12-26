@@ -51,4 +51,54 @@ WHERE
 			WHERE E.Ssn=Mgr_Ssn_)
 ```
 
-### Division
+### Unique
+Checks for duplicate tuples, if set contains duplicates, return FALSE, otherwise return TRUE.
+```sql
+SELECT S.sname
+FROM Sailors S
+Where UNIQUE (SELECT R.bid
+			  FROM Reserves R
+			  WHERE S.sid=R.sid)
+```
+### Division (NOT EXISTS)
+Find the first and last names of employees who work on ALL projects controlled by department number 5.
+```sql
+SELECT Fname, Lname
+FROM EMPLOYEE
+WHERE NOT EXISTS (
+    (SELECT Pnumber 
+     FROM PROJECT 
+     WHERE Dnum = 5)
+    EXCEPT 
+    (SELECT Pno 
+     FROM WORKS_ON 
+     WHERE Ssn = Essn)
+)```
+
+Find the names of sailors who have reserved all boats.
+```sql
+SELECT S.sname
+FROM Sailors S
+WHERE NOT EXISTS (
+    (SELECT B.bid
+     FROM Boats B)
+    EXCEPT 
+    (SELECT R.bid
+     FROM Reserves R
+     WHERE R.sid = S.sid)
+)
+```
+## Joins
+
+## Aggregate Operators
+Used to ummarize informaton from multiple tuples into a short summary.
+```kotlin
+COUNT(*)
+COUNT([DISTINCT] A)
+SUM([DISTINCT] A)
+AVG([DISTINCT] A)
+MAX(A)
+MIN(A)
+```
+
+## GROUP BY - HAVING

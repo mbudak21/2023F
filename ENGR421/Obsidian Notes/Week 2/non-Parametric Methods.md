@@ -11,3 +11,6 @@ Non-parametric methods are powerful when dealing with classification and regress
 These methods often need more data to be accurate and can be computationally demanding. They are also more prone to issues like overfitting and can be affected by the curse of dimensionality in high-dimensional space.
 ## Applications
 Widely applied in image processing, pattern recognition, and other fields where data distributions are complex or unknown, non-parametric methods are an essential tool in the machine learning toolbox.
+
+
+[[non-parametric Density Estimation]]

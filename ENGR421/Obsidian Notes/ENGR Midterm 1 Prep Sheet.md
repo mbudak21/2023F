@@ -1,10 +1,10 @@
 - [x] [[ENGR421 Introduction]]
 - [x] [[Supervised Learning]]
 - [x] [[Parametric Methods]]
-- [ ] [[Multivariate Methods]]
+- [x] [[Multivariate Methods]]
 - [ ] [[Linear Discrimination]]
 - [ ] [[Multilayer Perceptrons]]
 - [ ] Labs
-- [ ] [[engr421_fall2021_midterm_solution_key.pdf]]
-- [ ] [[engr421_spring2021_midterm_solution_key.pdf]]
+- [x] [[engr421_fall2021_midterm_solution_key.pdf]]
+- [x] [[engr421_spring2021_midterm_solution_key.pdf]]
 - [ ] All Done!

@@ -5,7 +5,7 @@
 Week1
 OOAD: 
 	1. Define [[use case]], 
-	2. Define [[domain model]], 
+	2. Define [[domain model]], primitive attributes.
 	3. Define [[Interaction Diagram]], 
 	4. Define [[Design Class Diagram]]
 
@@ -15,3 +15,9 @@ Inception phase: Short initial phase
 	Is it feasible?
 	Rough cost estimate
 	
+GRASP
+	Low Coupling - Düşük bağlılık
+	High Cohesion - Focused on particular thing, not bloated
+	Controller 
+	Information Expert
+	Creator
