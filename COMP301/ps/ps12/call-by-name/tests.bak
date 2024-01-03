@@ -1,0 +1,12 @@
+(module tests mzscheme
+  
+  (provide test-list)
+  ;;;;;;;;;;;;;;;; tests ;;;;;;;;;;;;;;;;
+  
+  (define test-list
+   '(
+  "let a=12 in let f=proc(x) begin x; x; x end in (f begin set a=-(a, -13); a end)"
+
+    )
+  )
+)

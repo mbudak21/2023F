@@ -42,3 +42,6 @@
 - [ ] [[ENGR Midterm 2 Prep Sheet]]
 -----
 15. [[Clustering]] [[Lecture 22 - Clustering.pdf]]
+----
+16. Combining Multiple Learners [[Ensamble Learning]]
+17. 

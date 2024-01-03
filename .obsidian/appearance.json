@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "big-math"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "theme": "obsidian"
 }
