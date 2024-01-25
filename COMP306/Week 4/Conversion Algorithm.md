@@ -16,7 +16,7 @@ For each **subclass**, create its own relation.
 
 **Example:**
 	![[Pasted image 20231112172006.png]]
-	
+
 ## Step 2: Mapping of Weak Entities
 The weak entitity and its identifying relationship is handled together, by creating a single new relation $R$.
 $R$ contains:

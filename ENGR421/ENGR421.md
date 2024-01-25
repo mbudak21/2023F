@@ -42,6 +42,22 @@
 - [ ] [[ENGR Midterm 2 Prep Sheet]]
 -----
 15. [[Clustering]] [[Lecture 22 - Clustering.pdf]]
+Hyerarchical clustering:
+	Compare all distances pairwise, choose the appropriate one to combine the clusters.
+
+	Depending on the clistering method, eg:
+		min distance, max distance, centroid average.
+
+Spectral Clustering:
+Define neighboorhood relations, if the distance between two points is below a certain distance, set them to be neighbors.
+We can also use neighboorhood precentages.
+
+
+
 ----
 16. Combining Multiple Learners [[Ensamble Learning]]
-17. 
+
+
+
+
+- [ ] [[Final Checklist]]

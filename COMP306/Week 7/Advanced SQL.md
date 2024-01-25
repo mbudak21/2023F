@@ -60,7 +60,7 @@ Where UNIQUE (SELECT R.bid
 			  FROM Reserves R
 			  WHERE S.sid=R.sid)
 ```
-### Division (NOT EXISTS)
+### Division (NOT EXISTS + Except), kind of like double negation
 Find the first and last names of employees who work on ALL projects controlled by department number 5.
 ```sql
 SELECT Fname, Lname

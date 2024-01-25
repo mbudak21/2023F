@@ -13,8 +13,11 @@
 [[12. LET Implementation]]
 [[13. PROC]]
 [[14. PROC 2]]
-- [ ] **Midterm**
-
+- [x] **Midterm**
+[[15. LETREC]]
+[[16. Scoping, Binding, Lexical Addressing]]
+[[17. Nameless LET]]
+[[18. ]]
 
 
 

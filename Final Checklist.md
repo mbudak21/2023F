@@ -1,0 +1,13 @@
+- [x] "Introduction", 
+- [x] "Supervised Learning", 
+- [ ] "Parametric Methods", 
+- [ ] "Multivariate Methods", 
+- [ ] "Linear Discrimination", 
+- [ ] "Multilayer Perceptrons", 
+- [ ] "Nonparametric Methods", 
+- [ ] "Decision Trees", 
+- [ ] "Kernel Machines", 
+- [ ] "Dimensionality Reduction", 
+- [ ] "Clustering", 
+- [ ] "Combining Multiple Learners", 
+- [ ] "Design and Analysis of Machine Learning Experiments".

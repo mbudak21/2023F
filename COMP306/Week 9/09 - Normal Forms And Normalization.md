@@ -48,7 +48,6 @@ A table is in 3NF if:
 1. It is already in 2NF.
 2. It contains no transitive dependencies.
 #### Transitive Dependency:
-
 A transitive dependency in a database table is a condition where a non-key attribute depends on another non-key attribute, which in turn depends on the primary key. This kind of dependency can lead to redundancy and inconsistency in the database.
 
 ## Decomposition

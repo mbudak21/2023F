@@ -13,7 +13,7 @@ $$
 \sum_{i=1}^{N}{(y_i-(w_1x_{i1}+w_0))^2}
 $$
 
-To find the minimal point, so we set the derivative to 0:
+To find the minimal point, we set the derivative to 0:
 $$
 \frac{dError}{dw_0} = \sum_{i=1}^{N}{\frac{d(y_i-(w_1x_{i1} + w_0))^2}{dw_0}} = 0
 $$
